@@ -1,0 +1,2184 @@
+
+
+POST RECEIVED - 2021-02-08 21:02:52
+HOST - localhost
+REMOTE_HOST - /h2u_beneficios/util_api/api/apiJson.php
+RECEIVED FROM CLICKSIGN
+{
+  "event": {
+    "name": "auto_close",
+    "data": null,
+    "occurred_at": "2021-02-08T16:51:44.723-03:00"
+  },
+  "document": {
+    "key": "69e08837-589c-43f7-99e7-dcb9a44b6bdc",
+    "account_key": "dcf81051-48ed-4791-9a4a-3637ac0b6907",
+    "path": "/Proposta_final_424.pdf",
+    "filename": "Proposta_final_424.pdf",
+    "uploaded_at": "2021-02-08T19:20:26.439Z",
+    "updated_at": "2021-02-08T19:51:44.714Z",
+    "finished_at": "2021-02-08T19:51:44.537Z",
+    "deadline_at": "2021-02-09T16:20:23.000-03:00",
+    "status": "closed",
+    "auto_close": true,
+    "locale": "pt-BR",
+    "metadata": {},
+    "sequence_enabled": false,
+    "signable_group": null,
+    "remind_interval": null,
+    "downloads": {
+      "original_file_url": "https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/20/26/be98cc0e-03d9-453c-bde2-a1f867df93ba/file.pdf?X-Amz-Expires=300&X-Amz-Date=20210208T195144Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEID%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCh5C4pMBPsHfkHWtz3d9j8Wh6urxCCSvO%2B7UhIc%2F6H%2FAIgIrha9F8BrYwYoy6Pcv8ABqEgAfviIJlfSekAvIj54HMqtAMIeRAAGgw2OTY5NzYzNjA5NjciDNsT7p6pFzn%2BfnF78CqRA17N0TuccJbCi4lgSPb8iEN5G4rr2rg4Jpz11QHawC%2BtyiHx6HcFmqcOAzDxs%2BqQlFFOZFmHWqWgYWOuvUZtjSyORj8tGkKvMmwH2Txqhqggszk%2BWpMgkdF3KQg9Co3WsHTzyjgxmZ1BUg2ZB6bJ03mxz6v98t779ukw4kloxGeo8Sx%2BpyY8wDXSa0TQJ3YKAUpXVYqVeg2A7hFUKoBej%2Fsqmwvcw0KJgAHhs1190l6KWVOGNoI4rqSpTo%2FzNrrl7xsSoyDz%2F8Qp7BQo2fHrMYUr7v5qVpabew9z7g0ocD9jAWIzhQh2DMfAkkQalP8B1hacwny4hQ07%2BnR0sv5BHck1e64%2BwwciDhdQgzBXpogM%2F54RaPVVo218KN%2Bn4flmKKdisXO1%2F2180NlBoYTVSN2jPP%2FeG7mZCxRUx3kJZ8rL3Xs6%2F5Mbs92z4IYAfaTfySc%2BmXclcsJkrqfADsBbkKrlakN0kDcAiRE0yiAVZVLsjjV%2BDTDI7bUf0dVAlmVxrU%2BUonpalntu8H1vc9cI%2B8TtMJC7hYEGOusBxonbq3xZblPG2JfE88FnPZ8QXHXqIRLcgDakuPTZ96uNGmkS2DrTwGJJquWoMVmNk1tzz0H9TN%2FrUwFlQ6T9UiDj3R2dHAKnC2%2FaG32DXkllPFO%2FENHb85YiOaAQsVSSC%2BnTBc63NUWE1SpESdxJ9K5HDnvvRLQMjHTLKmzu1GYtF9KCAmiwNTrT%2FtoIhLuvqA8w1rDrexvuSliFK81vBjYZ%2BtbbdDh9Vy%2BpTuhu3EiUE5N3BXSlJts8UVmp6SX81jewWtP%2BLR88BCOntj8GkApbFQyQ0X1uVSGsJ4%2FvjGmxbk7rheyqMCKuzQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVYDVAK45%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4f913546b8d9a37b14253ef23394bc7da4b0fee4775fc35c00c3b394e5d55fd1"
+    },
+    "template": null,
+    "signers": [
+      {
+        "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+        "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "request_signature_key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "email": "we.silveira@outlook.com",
+        "name": "TESTE WELLINGTON",
+        "has_documentation": true,
+        "documentation": null,
+        "birthday": null,
+        "phone_number": null,
+        "sign_as": "sign",
+        "delivery": "email",
+        "url": "http://example.org/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "auths": [
+          "email"
+        ],
+        "created_at": "2021-02-08T19:20:26.467Z",
+        "signature": {
+          "name": "TESTE WELLINGTON",
+          "email": "we.silveira@outlook.com",
+          "birthday": "1991-06-05",
+          "documentation": "045.054.163-05",
+          "validation": {
+            "status": "pending",
+            "name": "TESTE WELLINGTON"
+          },
+          "ip_address": "179.48.2.185",
+          "signed_at": "2021-02-08T19:51:44.404Z",
+          "sign_as": "sign"
+        }
+      }
+    ],
+    "events": [
+      {
+        "name": "auto_close",
+        "data": null,
+        "occurred_at": "2021-02-08T19:51:44.723Z"
+      },
+      {
+        "name": "sign",
+        "data": {
+          "signer": {
+            "sign_as": "sign",
+            "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+            "email": "we.silveira@outlook.com",
+            "name": "TESTE WELLINGTON",
+            "birthday": "1991-06-05",
+            "documentation": "045.054.163-05",
+            "has_documentation": true,
+            "created_at": "2021-02-08T16:20:26.467-03:00",
+            "auths": [
+              "email"
+            ],
+            "selfie_enabled": false,
+            "handwritten_enabled": false,
+            "official_document_enabled": false,
+            "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+            "url": "https://app.clicksign.com/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+            "address": "179.48.2.185",
+            "validation": {
+              "status": "pending",
+              "name": "TESTE WELLINGTON"
+            },
+            "selfie_name": null,
+            "selfie_hash": null,
+            "handwritten_hash": null,
+            "handwritten_name": null,
+            "official_document_front_hash": null,
+            "official_document_back_hash": null,
+            "official_front_name": "frente 08 fev 2021, 16-51-44.png",
+            "official_back_name": "verso 08 fev 2021, 16-51-44.png"
+          },
+          "secret_hmac": null,
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "log_version": "1.96.0",
+          "url": "https://app.clicksign.com"
+        },
+        "occurred_at": "2021-02-08T19:51:44.477Z"
+      },
+      {
+        "name": "add_signer",
+        "data": {
+          "user": {
+            "email": "atendimento@heaolu.com.br",
+            "name": "Atendimento "
+          },
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "signers": [
+            {
+              "sign_as": "sign",
+              "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+              "email": "we.silveira@outlook.com",
+              "name": "TESTE WELLINGTON",
+              "birthday": null,
+              "documentation": null,
+              "has_documentation": true,
+              "created_at": "2021-02-08T16:20:26.467-03:00",
+              "auths": [
+                "email"
+              ],
+              "selfie_enabled": false,
+              "handwritten_enabled": false,
+              "official_document_enabled": false,
+              "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+              "url": "https://app.clicksign.com/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2"
+            }
+          ]
+        },
+        "occurred_at": "2021-02-08T19:20:26.509Z"
+      },
+      {
+        "name": "upload",
+        "data": {
+          "user": {
+            "email": "atendimento@heaolu.com.br",
+            "name": "Atendimento "
+          },
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "deadline_at": "2021-02-09T16:20:23.000-03:00",
+          "auto_close": true,
+          "locale": "pt-BR"
+        },
+        "occurred_at": "2021-02-08T19:20:26.457Z"
+      }
+    ],
+    "attachments": []
+  }
+}
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+
+
+POST RECEIVED - 2021-02-08 21:05:40
+HOST - localhost
+REMOTE_HOST - /h2u_beneficios/util_api/api/apiClickSign.php
+RECEIVED FROM CLICKSIGN
+{
+  "event": {
+    "name": "auto_close",
+    "data": null,
+    "occurred_at": "2021-02-08T16:51:44.723-03:00"
+  },
+  "document": {
+    "key": "69e08837-589c-43f7-99e7-dcb9a44b6bdc",
+    "account_key": "dcf81051-48ed-4791-9a4a-3637ac0b6907",
+    "path": "/Proposta_final_424.pdf",
+    "filename": "Proposta_final_424.pdf",
+    "uploaded_at": "2021-02-08T19:20:26.439Z",
+    "updated_at": "2021-02-08T19:51:44.714Z",
+    "finished_at": "2021-02-08T19:51:44.537Z",
+    "deadline_at": "2021-02-09T16:20:23.000-03:00",
+    "status": "closed",
+    "auto_close": true,
+    "locale": "pt-BR",
+    "metadata": {},
+    "sequence_enabled": false,
+    "signable_group": null,
+    "remind_interval": null,
+    "downloads": {
+      "original_file_url": "https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/20/26/be98cc0e-03d9-453c-bde2-a1f867df93ba/file.pdf?X-Amz-Expires=300&X-Amz-Date=20210208T195144Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEID%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCh5C4pMBPsHfkHWtz3d9j8Wh6urxCCSvO%2B7UhIc%2F6H%2FAIgIrha9F8BrYwYoy6Pcv8ABqEgAfviIJlfSekAvIj54HMqtAMIeRAAGgw2OTY5NzYzNjA5NjciDNsT7p6pFzn%2BfnF78CqRA17N0TuccJbCi4lgSPb8iEN5G4rr2rg4Jpz11QHawC%2BtyiHx6HcFmqcOAzDxs%2BqQlFFOZFmHWqWgYWOuvUZtjSyORj8tGkKvMmwH2Txqhqggszk%2BWpMgkdF3KQg9Co3WsHTzyjgxmZ1BUg2ZB6bJ03mxz6v98t779ukw4kloxGeo8Sx%2BpyY8wDXSa0TQJ3YKAUpXVYqVeg2A7hFUKoBej%2Fsqmwvcw0KJgAHhs1190l6KWVOGNoI4rqSpTo%2FzNrrl7xsSoyDz%2F8Qp7BQo2fHrMYUr7v5qVpabew9z7g0ocD9jAWIzhQh2DMfAkkQalP8B1hacwny4hQ07%2BnR0sv5BHck1e64%2BwwciDhdQgzBXpogM%2F54RaPVVo218KN%2Bn4flmKKdisXO1%2F2180NlBoYTVSN2jPP%2FeG7mZCxRUx3kJZ8rL3Xs6%2F5Mbs92z4IYAfaTfySc%2BmXclcsJkrqfADsBbkKrlakN0kDcAiRE0yiAVZVLsjjV%2BDTDI7bUf0dVAlmVxrU%2BUonpalntu8H1vc9cI%2B8TtMJC7hYEGOusBxonbq3xZblPG2JfE88FnPZ8QXHXqIRLcgDakuPTZ96uNGmkS2DrTwGJJquWoMVmNk1tzz0H9TN%2FrUwFlQ6T9UiDj3R2dHAKnC2%2FaG32DXkllPFO%2FENHb85YiOaAQsVSSC%2BnTBc63NUWE1SpESdxJ9K5HDnvvRLQMjHTLKmzu1GYtF9KCAmiwNTrT%2FtoIhLuvqA8w1rDrexvuSliFK81vBjYZ%2BtbbdDh9Vy%2BpTuhu3EiUE5N3BXSlJts8UVmp6SX81jewWtP%2BLR88BCOntj8GkApbFQyQ0X1uVSGsJ4%2FvjGmxbk7rheyqMCKuzQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVYDVAK45%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4f913546b8d9a37b14253ef23394bc7da4b0fee4775fc35c00c3b394e5d55fd1"
+    },
+    "template": null,
+    "signers": [
+      {
+        "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+        "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "request_signature_key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "email": "we.silveira@outlook.com",
+        "name": "TESTE WELLINGTON",
+        "has_documentation": true,
+        "documentation": null,
+        "birthday": null,
+        "phone_number": null,
+        "sign_as": "sign",
+        "delivery": "email",
+        "url": "http://example.org/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "auths": [
+          "email"
+        ],
+        "created_at": "2021-02-08T19:20:26.467Z",
+        "signature": {
+          "name": "TESTE WELLINGTON",
+          "email": "we.silveira@outlook.com",
+          "birthday": "1991-06-05",
+          "documentation": "045.054.163-05",
+          "validation": {
+            "status": "pending",
+            "name": "TESTE WELLINGTON"
+          },
+          "ip_address": "179.48.2.185",
+          "signed_at": "2021-02-08T19:51:44.404Z",
+          "sign_as": "sign"
+        }
+      }
+    ],
+    "events": [
+      {
+        "name": "auto_close",
+        "data": null,
+        "occurred_at": "2021-02-08T19:51:44.723Z"
+      },
+      {
+        "name": "sign",
+        "data": {
+          "signer": {
+            "sign_as": "sign",
+            "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+            "email": "we.silveira@outlook.com",
+            "name": "TESTE WELLINGTON",
+            "birthday": "1991-06-05",
+            "documentation": "045.054.163-05",
+            "has_documentation": true,
+            "created_at": "2021-02-08T16:20:26.467-03:00",
+            "auths": [
+              "email"
+            ],
+            "selfie_enabled": false,
+            "handwritten_enabled": false,
+            "official_document_enabled": false,
+            "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+            "url": "https://app.clicksign.com/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+            "address": "179.48.2.185",
+            "validation": {
+              "status": "pending",
+              "name": "TESTE WELLINGTON"
+            },
+            "selfie_name": null,
+            "selfie_hash": null,
+            "handwritten_hash": null,
+            "handwritten_name": null,
+            "official_document_front_hash": null,
+            "official_document_back_hash": null,
+            "official_front_name": "frente 08 fev 2021, 16-51-44.png",
+            "official_back_name": "verso 08 fev 2021, 16-51-44.png"
+          },
+          "secret_hmac": null,
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "log_version": "1.96.0",
+          "url": "https://app.clicksign.com"
+        },
+        "occurred_at": "2021-02-08T19:51:44.477Z"
+      },
+      {
+        "name": "add_signer",
+        "data": {
+          "user": {
+            "email": "atendimento@heaolu.com.br",
+            "name": "Atendimento "
+          },
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "signers": [
+            {
+              "sign_as": "sign",
+              "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+              "email": "we.silveira@outlook.com",
+              "name": "TESTE WELLINGTON",
+              "birthday": null,
+              "documentation": null,
+              "has_documentation": true,
+              "created_at": "2021-02-08T16:20:26.467-03:00",
+              "auths": [
+                "email"
+              ],
+              "selfie_enabled": false,
+              "handwritten_enabled": false,
+              "official_document_enabled": false,
+              "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+              "url": "https://app.clicksign.com/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2"
+            }
+          ]
+        },
+        "occurred_at": "2021-02-08T19:20:26.509Z"
+      },
+      {
+        "name": "upload",
+        "data": {
+          "user": {
+            "email": "atendimento@heaolu.com.br",
+            "name": "Atendimento "
+          },
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "deadline_at": "2021-02-09T16:20:23.000-03:00",
+          "auto_close": true,
+          "locale": "pt-BR"
+        },
+        "occurred_at": "2021-02-08T19:20:26.457Z"
+      }
+    ],
+    "attachments": []
+  }
+}
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+
+
+POST RECEIVED - 2021-02-08 21:11:55
+HOST - localhost
+REMOTE_HOST - /h2u_beneficios/util_api/api/apiClickSign.php
+RECEIVED FROM CLICKSIGN
+{
+  "event": {
+    "name": "auto_close",
+    "data": null,
+    "occurred_at": "2021-02-08T16:51:44.723-03:00"
+  },
+  "document": {
+    "key": "69e08837-589c-43f7-99e7-dcb9a44b6bdc",
+    "account_key": "dcf81051-48ed-4791-9a4a-3637ac0b6907",
+    "path": "/Proposta_final_424.pdf",
+    "filename": "Proposta_final_424.pdf",
+    "uploaded_at": "2021-02-08T19:20:26.439Z",
+    "updated_at": "2021-02-08T19:51:44.714Z",
+    "finished_at": "2021-02-08T19:51:44.537Z",
+    "deadline_at": "2021-02-09T16:20:23.000-03:00",
+    "status": "closed",
+    "auto_close": true,
+    "locale": "pt-BR",
+    "metadata": {},
+    "sequence_enabled": false,
+    "signable_group": null,
+    "remind_interval": null,
+    "downloads": {
+      "original_file_url": "https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/20/26/be98cc0e-03d9-453c-bde2-a1f867df93ba/file.pdf?X-Amz-Expires=300&X-Amz-Date=20210208T195144Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEID%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCh5C4pMBPsHfkHWtz3d9j8Wh6urxCCSvO%2B7UhIc%2F6H%2FAIgIrha9F8BrYwYoy6Pcv8ABqEgAfviIJlfSekAvIj54HMqtAMIeRAAGgw2OTY5NzYzNjA5NjciDNsT7p6pFzn%2BfnF78CqRA17N0TuccJbCi4lgSPb8iEN5G4rr2rg4Jpz11QHawC%2BtyiHx6HcFmqcOAzDxs%2BqQlFFOZFmHWqWgYWOuvUZtjSyORj8tGkKvMmwH2Txqhqggszk%2BWpMgkdF3KQg9Co3WsHTzyjgxmZ1BUg2ZB6bJ03mxz6v98t779ukw4kloxGeo8Sx%2BpyY8wDXSa0TQJ3YKAUpXVYqVeg2A7hFUKoBej%2Fsqmwvcw0KJgAHhs1190l6KWVOGNoI4rqSpTo%2FzNrrl7xsSoyDz%2F8Qp7BQo2fHrMYUr7v5qVpabew9z7g0ocD9jAWIzhQh2DMfAkkQalP8B1hacwny4hQ07%2BnR0sv5BHck1e64%2BwwciDhdQgzBXpogM%2F54RaPVVo218KN%2Bn4flmKKdisXO1%2F2180NlBoYTVSN2jPP%2FeG7mZCxRUx3kJZ8rL3Xs6%2F5Mbs92z4IYAfaTfySc%2BmXclcsJkrqfADsBbkKrlakN0kDcAiRE0yiAVZVLsjjV%2BDTDI7bUf0dVAlmVxrU%2BUonpalntu8H1vc9cI%2B8TtMJC7hYEGOusBxonbq3xZblPG2JfE88FnPZ8QXHXqIRLcgDakuPTZ96uNGmkS2DrTwGJJquWoMVmNk1tzz0H9TN%2FrUwFlQ6T9UiDj3R2dHAKnC2%2FaG32DXkllPFO%2FENHb85YiOaAQsVSSC%2BnTBc63NUWE1SpESdxJ9K5HDnvvRLQMjHTLKmzu1GYtF9KCAmiwNTrT%2FtoIhLuvqA8w1rDrexvuSliFK81vBjYZ%2BtbbdDh9Vy%2BpTuhu3EiUE5N3BXSlJts8UVmp6SX81jewWtP%2BLR88BCOntj8GkApbFQyQ0X1uVSGsJ4%2FvjGmxbk7rheyqMCKuzQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVYDVAK45%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4f913546b8d9a37b14253ef23394bc7da4b0fee4775fc35c00c3b394e5d55fd1"
+    },
+    "template": null,
+    "signers": [
+      {
+        "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+        "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "request_signature_key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "email": "we.silveira@outlook.com",
+        "name": "TESTE WELLINGTON",
+        "has_documentation": true,
+        "documentation": null,
+        "birthday": null,
+        "phone_number": null,
+        "sign_as": "sign",
+        "delivery": "email",
+        "url": "http://example.org/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "auths": [
+          "email"
+        ],
+        "created_at": "2021-02-08T19:20:26.467Z",
+        "signature": {
+          "name": "TESTE WELLINGTON",
+          "email": "we.silveira@outlook.com",
+          "birthday": "1991-06-05",
+          "documentation": "045.054.163-05",
+          "validation": {
+            "status": "pending",
+            "name": "TESTE WELLINGTON"
+          },
+          "ip_address": "179.48.2.185",
+          "signed_at": "2021-02-08T19:51:44.404Z",
+          "sign_as": "sign"
+        }
+      }
+    ],
+    "events": [
+      {
+        "name": "auto_close",
+        "data": null,
+        "occurred_at": "2021-02-08T19:51:44.723Z"
+      },
+      {
+        "name": "sign",
+        "data": {
+          "signer": {
+            "sign_as": "sign",
+            "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+            "email": "we.silveira@outlook.com",
+            "name": "TESTE WELLINGTON",
+            "birthday": "1991-06-05",
+            "documentation": "045.054.163-05",
+            "has_documentation": true,
+            "created_at": "2021-02-08T16:20:26.467-03:00",
+            "auths": [
+              "email"
+            ],
+            "selfie_enabled": false,
+            "handwritten_enabled": false,
+            "official_document_enabled": false,
+            "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+            "url": "https://app.clicksign.com/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+            "address": "179.48.2.185",
+            "validation": {
+              "status": "pending",
+              "name": "TESTE WELLINGTON"
+            },
+            "selfie_name": null,
+            "selfie_hash": null,
+            "handwritten_hash": null,
+            "handwritten_name": null,
+            "official_document_front_hash": null,
+            "official_document_back_hash": null,
+            "official_front_name": "frente 08 fev 2021, 16-51-44.png",
+            "official_back_name": "verso 08 fev 2021, 16-51-44.png"
+          },
+          "secret_hmac": null,
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "log_version": "1.96.0",
+          "url": "https://app.clicksign.com"
+        },
+        "occurred_at": "2021-02-08T19:51:44.477Z"
+      },
+      {
+        "name": "add_signer",
+        "data": {
+          "user": {
+            "email": "atendimento@heaolu.com.br",
+            "name": "Atendimento "
+          },
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "signers": [
+            {
+              "sign_as": "sign",
+              "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+              "email": "we.silveira@outlook.com",
+              "name": "TESTE WELLINGTON",
+              "birthday": null,
+              "documentation": null,
+              "has_documentation": true,
+              "created_at": "2021-02-08T16:20:26.467-03:00",
+              "auths": [
+                "email"
+              ],
+              "selfie_enabled": false,
+              "handwritten_enabled": false,
+              "official_document_enabled": false,
+              "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+              "url": "https://app.clicksign.com/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2"
+            }
+          ]
+        },
+        "occurred_at": "2021-02-08T19:20:26.509Z"
+      },
+      {
+        "name": "upload",
+        "data": {
+          "user": {
+            "email": "atendimento@heaolu.com.br",
+            "name": "Atendimento "
+          },
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "deadline_at": "2021-02-09T16:20:23.000-03:00",
+          "auto_close": true,
+          "locale": "pt-BR"
+        },
+        "occurred_at": "2021-02-08T19:20:26.457Z"
+      }
+    ],
+    "attachments": []
+  }
+}
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+
+
+POST RECEIVED - 2021-02-08 22:05:23
+RECEIVED FROM CLICKSIGN
+{
+  "event": {
+    "name": "auto_close",
+    "data": null,
+    "occurred_at": "2021-02-08T16:51:44.723-03:00"
+  },
+  "document": {
+    "key": "69e08837-589c-43f7-99e7-dcb9a44b6bdc",
+    "account_key": "dcf81051-48ed-4791-9a4a-3637ac0b6907",
+    "path": "/Proposta_final_424.pdf",
+    "filename": "Proposta_final_424.pdf",
+    "uploaded_at": "2021-02-08T19:20:26.439Z",
+    "updated_at": "2021-02-08T19:51:44.714Z",
+    "finished_at": "2021-02-08T19:51:44.537Z",
+    "deadline_at": "2021-02-09T16:20:23.000-03:00",
+    "status": "closed",
+    "auto_close": true,
+    "locale": "pt-BR",
+    "metadata": {},
+    "sequence_enabled": false,
+    "signable_group": null,
+    "remind_interval": null,
+    "downloads": {
+      "original_file_url": "https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/20/26/be98cc0e-03d9-453c-bde2-a1f867df93ba/file.pdf?X-Amz-Expires=300&X-Amz-Date=20210208T195144Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEID%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCh5C4pMBPsHfkHWtz3d9j8Wh6urxCCSvO%2B7UhIc%2F6H%2FAIgIrha9F8BrYwYoy6Pcv8ABqEgAfviIJlfSekAvIj54HMqtAMIeRAAGgw2OTY5NzYzNjA5NjciDNsT7p6pFzn%2BfnF78CqRA17N0TuccJbCi4lgSPb8iEN5G4rr2rg4Jpz11QHawC%2BtyiHx6HcFmqcOAzDxs%2BqQlFFOZFmHWqWgYWOuvUZtjSyORj8tGkKvMmwH2Txqhqggszk%2BWpMgkdF3KQg9Co3WsHTzyjgxmZ1BUg2ZB6bJ03mxz6v98t779ukw4kloxGeo8Sx%2BpyY8wDXSa0TQJ3YKAUpXVYqVeg2A7hFUKoBej%2Fsqmwvcw0KJgAHhs1190l6KWVOGNoI4rqSpTo%2FzNrrl7xsSoyDz%2F8Qp7BQo2fHrMYUr7v5qVpabew9z7g0ocD9jAWIzhQh2DMfAkkQalP8B1hacwny4hQ07%2BnR0sv5BHck1e64%2BwwciDhdQgzBXpogM%2F54RaPVVo218KN%2Bn4flmKKdisXO1%2F2180NlBoYTVSN2jPP%2FeG7mZCxRUx3kJZ8rL3Xs6%2F5Mbs92z4IYAfaTfySc%2BmXclcsJkrqfADsBbkKrlakN0kDcAiRE0yiAVZVLsjjV%2BDTDI7bUf0dVAlmVxrU%2BUonpalntu8H1vc9cI%2B8TtMJC7hYEGOusBxonbq3xZblPG2JfE88FnPZ8QXHXqIRLcgDakuPTZ96uNGmkS2DrTwGJJquWoMVmNk1tzz0H9TN%2FrUwFlQ6T9UiDj3R2dHAKnC2%2FaG32DXkllPFO%2FENHb85YiOaAQsVSSC%2BnTBc63NUWE1SpESdxJ9K5HDnvvRLQMjHTLKmzu1GYtF9KCAmiwNTrT%2FtoIhLuvqA8w1rDrexvuSliFK81vBjYZ%2BtbbdDh9Vy%2BpTuhu3EiUE5N3BXSlJts8UVmp6SX81jewWtP%2BLR88BCOntj8GkApbFQyQ0X1uVSGsJ4%2FvjGmxbk7rheyqMCKuzQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVYDVAK45%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4f913546b8d9a37b14253ef23394bc7da4b0fee4775fc35c00c3b394e5d55fd1"
+    },
+    "template": null,
+    "signers": [
+      {
+        "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+        "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "request_signature_key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "email": "we.silveira@outlook.com",
+        "name": "TESTE WELLINGTON",
+        "has_documentation": true,
+        "documentation": null,
+        "birthday": null,
+        "phone_number": null,
+        "sign_as": "sign",
+        "delivery": "email",
+        "url": "http://example.org/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "auths": [
+          "email"
+        ],
+        "created_at": "2021-02-08T19:20:26.467Z",
+        "signature": {
+          "name": "TESTE WELLINGTON",
+          "email": "we.silveira@outlook.com",
+          "birthday": "1991-06-05",
+          "documentation": "045.054.163-05",
+          "validation": {
+            "status": "pending",
+            "name": "TESTE WELLINGTON"
+          },
+          "ip_address": "179.48.2.185",
+          "signed_at": "2021-02-08T19:51:44.404Z",
+          "sign_as": "sign"
+        }
+      }
+    ],
+    "events": [
+      {
+        "name": "auto_close",
+        "data": null,
+        "occurred_at": "2021-02-08T19:51:44.723Z"
+      },
+      {
+        "name": "sign",
+        "data": {
+          "signer": {
+            "sign_as": "sign",
+            "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+            "email": "we.silveira@outlook.com",
+            "name": "TESTE WELLINGTON",
+            "birthday": "1991-06-05",
+            "documentation": "045.054.163-05",
+            "has_documentation": true,
+            "created_at": "2021-02-08T16:20:26.467-03:00",
+            "auths": [
+              "email"
+            ],
+            "selfie_enabled": false,
+            "handwritten_enabled": false,
+            "official_document_enabled": false,
+            "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+            "url": "https://app.clicksign.com/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+            "address": "179.48.2.185",
+            "validation": {
+              "status": "pending",
+              "name": "TESTE WELLINGTON"
+            },
+            "selfie_name": null,
+            "selfie_hash": null,
+            "handwritten_hash": null,
+            "handwritten_name": null,
+            "official_document_front_hash": null,
+            "official_document_back_hash": null,
+            "official_front_name": "frente 08 fev 2021, 16-51-44.png",
+            "official_back_name": "verso 08 fev 2021, 16-51-44.png"
+          },
+          "secret_hmac": null,
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "log_version": "1.96.0",
+          "url": "https://app.clicksign.com"
+        },
+        "occurred_at": "2021-02-08T19:51:44.477Z"
+      },
+      {
+        "name": "add_signer",
+        "data": {
+          "user": {
+            "email": "atendimento@heaolu.com.br",
+            "name": "Atendimento "
+          },
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "signers": [
+            {
+              "sign_as": "sign",
+              "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+              "email": "we.silveira@outlook.com",
+              "name": "TESTE WELLINGTON",
+              "birthday": null,
+              "documentation": null,
+              "has_documentation": true,
+              "created_at": "2021-02-08T16:20:26.467-03:00",
+              "auths": [
+                "email"
+              ],
+              "selfie_enabled": false,
+              "handwritten_enabled": false,
+              "official_document_enabled": false,
+              "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+              "url": "https://app.clicksign.com/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2"
+            }
+          ]
+        },
+        "occurred_at": "2021-02-08T19:20:26.509Z"
+      },
+      {
+        "name": "upload",
+        "data": {
+          "user": {
+            "email": "atendimento@heaolu.com.br",
+            "name": "Atendimento "
+          },
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "deadline_at": "2021-02-09T16:20:23.000-03:00",
+          "auto_close": true,
+          "locale": "pt-BR"
+        },
+        "occurred_at": "2021-02-08T19:20:26.457Z"
+      }
+    ],
+    "attachments": []
+  }
+}
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Não foi gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-08 22:16:39
+RECEIVED FROM CLICKSIGN
+{
+  "event": {
+    "name": "auto_close",
+    "data": null,
+    "occurred_at": "2021-02-08T16:51:44.723-03:00"
+  },
+  "document": {
+    "key": "69e08837-589c-43f7-99e7-dcb9a44b6bdc",
+    "account_key": "dcf81051-48ed-4791-9a4a-3637ac0b6907",
+    "path": "/Proposta_final_424.pdf",
+    "filename": "Proposta_final_424.pdf",
+    "uploaded_at": "2021-02-08T19:20:26.439Z",
+    "updated_at": "2021-02-08T19:51:44.714Z",
+    "finished_at": "2021-02-08T19:51:44.537Z",
+    "deadline_at": "2021-02-09T16:20:23.000-03:00",
+    "status": "closed",
+    "auto_close": true,
+    "locale": "pt-BR",
+    "metadata": {},
+    "sequence_enabled": false,
+    "signable_group": null,
+    "remind_interval": null,
+    "downloads": {
+      "original_file_url": "https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/20/26/be98cc0e-03d9-453c-bde2-a1f867df93ba/file.pdf?X-Amz-Expires=300&X-Amz-Date=20210208T195144Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEID%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCh5C4pMBPsHfkHWtz3d9j8Wh6urxCCSvO%2B7UhIc%2F6H%2FAIgIrha9F8BrYwYoy6Pcv8ABqEgAfviIJlfSekAvIj54HMqtAMIeRAAGgw2OTY5NzYzNjA5NjciDNsT7p6pFzn%2BfnF78CqRA17N0TuccJbCi4lgSPb8iEN5G4rr2rg4Jpz11QHawC%2BtyiHx6HcFmqcOAzDxs%2BqQlFFOZFmHWqWgYWOuvUZtjSyORj8tGkKvMmwH2Txqhqggszk%2BWpMgkdF3KQg9Co3WsHTzyjgxmZ1BUg2ZB6bJ03mxz6v98t779ukw4kloxGeo8Sx%2BpyY8wDXSa0TQJ3YKAUpXVYqVeg2A7hFUKoBej%2Fsqmwvcw0KJgAHhs1190l6KWVOGNoI4rqSpTo%2FzNrrl7xsSoyDz%2F8Qp7BQo2fHrMYUr7v5qVpabew9z7g0ocD9jAWIzhQh2DMfAkkQalP8B1hacwny4hQ07%2BnR0sv5BHck1e64%2BwwciDhdQgzBXpogM%2F54RaPVVo218KN%2Bn4flmKKdisXO1%2F2180NlBoYTVSN2jPP%2FeG7mZCxRUx3kJZ8rL3Xs6%2F5Mbs92z4IYAfaTfySc%2BmXclcsJkrqfADsBbkKrlakN0kDcAiRE0yiAVZVLsjjV%2BDTDI7bUf0dVAlmVxrU%2BUonpalntu8H1vc9cI%2B8TtMJC7hYEGOusBxonbq3xZblPG2JfE88FnPZ8QXHXqIRLcgDakuPTZ96uNGmkS2DrTwGJJquWoMVmNk1tzz0H9TN%2FrUwFlQ6T9UiDj3R2dHAKnC2%2FaG32DXkllPFO%2FENHb85YiOaAQsVSSC%2BnTBc63NUWE1SpESdxJ9K5HDnvvRLQMjHTLKmzu1GYtF9KCAmiwNTrT%2FtoIhLuvqA8w1rDrexvuSliFK81vBjYZ%2BtbbdDh9Vy%2BpTuhu3EiUE5N3BXSlJts8UVmp6SX81jewWtP%2BLR88BCOntj8GkApbFQyQ0X1uVSGsJ4%2FvjGmxbk7rheyqMCKuzQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVYDVAK45%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4f913546b8d9a37b14253ef23394bc7da4b0fee4775fc35c00c3b394e5d55fd1"
+    },
+    "template": null,
+    "signers": [
+      {
+        "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+        "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "request_signature_key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "email": "we.silveira@outlook.com",
+        "name": "TESTE WELLINGTON",
+        "has_documentation": true,
+        "documentation": null,
+        "birthday": null,
+        "phone_number": null,
+        "sign_as": "sign",
+        "delivery": "email",
+        "url": "http://example.org/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "auths": [
+          "email"
+        ],
+        "created_at": "2021-02-08T19:20:26.467Z",
+        "signature": {
+          "name": "TESTE WELLINGTON",
+          "email": "we.silveira@outlook.com",
+          "birthday": "1991-06-05",
+          "documentation": "045.054.163-05",
+          "validation": {
+            "status": "pending",
+            "name": "TESTE WELLINGTON"
+          },
+          "ip_address": "179.48.2.185",
+          "signed_at": "2021-02-08T19:51:44.404Z",
+          "sign_as": "sign"
+        }
+      }
+    ],
+    "events": [
+      {
+        "name": "auto_close",
+        "data": null,
+        "occurred_at": "2021-02-08T19:51:44.723Z"
+      },
+      {
+        "name": "sign",
+        "data": {
+          "signer": {
+            "sign_as": "sign",
+            "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+            "email": "we.silveira@outlook.com",
+            "name": "TESTE WELLINGTON",
+            "birthday": "1991-06-05",
+            "documentation": "045.054.163-05",
+            "has_documentation": true,
+            "created_at": "2021-02-08T16:20:26.467-03:00",
+            "auths": [
+              "email"
+            ],
+            "selfie_enabled": false,
+            "handwritten_enabled": false,
+            "official_document_enabled": false,
+            "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+            "url": "https://app.clicksign.com/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+            "address": "179.48.2.185",
+            "validation": {
+              "status": "pending",
+              "name": "TESTE WELLINGTON"
+            },
+            "selfie_name": null,
+            "selfie_hash": null,
+            "handwritten_hash": null,
+            "handwritten_name": null,
+            "official_document_front_hash": null,
+            "official_document_back_hash": null,
+            "official_front_name": "frente 08 fev 2021, 16-51-44.png",
+            "official_back_name": "verso 08 fev 2021, 16-51-44.png"
+          },
+          "secret_hmac": null,
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "log_version": "1.96.0",
+          "url": "https://app.clicksign.com"
+        },
+        "occurred_at": "2021-02-08T19:51:44.477Z"
+      },
+      {
+        "name": "add_signer",
+        "data": {
+          "user": {
+            "email": "atendimento@heaolu.com.br",
+            "name": "Atendimento "
+          },
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "signers": [
+            {
+              "sign_as": "sign",
+              "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+              "email": "we.silveira@outlook.com",
+              "name": "TESTE WELLINGTON",
+              "birthday": null,
+              "documentation": null,
+              "has_documentation": true,
+              "created_at": "2021-02-08T16:20:26.467-03:00",
+              "auths": [
+                "email"
+              ],
+              "selfie_enabled": false,
+              "handwritten_enabled": false,
+              "official_document_enabled": false,
+              "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+              "url": "https://app.clicksign.com/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2"
+            }
+          ]
+        },
+        "occurred_at": "2021-02-08T19:20:26.509Z"
+      },
+      {
+        "name": "upload",
+        "data": {
+          "user": {
+            "email": "atendimento@heaolu.com.br",
+            "name": "Atendimento "
+          },
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "deadline_at": "2021-02-09T16:20:23.000-03:00",
+          "auto_close": true,
+          "locale": "pt-BR"
+        },
+        "occurred_at": "2021-02-08T19:20:26.457Z"
+      }
+    ],
+    "attachments": []
+  }
+}
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Não foi gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-08 22:17:33
+RECEIVED FROM CLICKSIGN
+{
+  "event": {
+    "name": "auto_close",
+    "data": null,
+    "occurred_at": "2021-02-08T16:51:44.723-03:00"
+  },
+  "document": {
+    "key": "69e08837-589c-43f7-99e7-dcb9a44b6bdc",
+    "account_key": "dcf81051-48ed-4791-9a4a-3637ac0b6907",
+    "path": "/Proposta_final_424.pdf",
+    "filename": "Proposta_final_424.pdf",
+    "uploaded_at": "2021-02-08T19:20:26.439Z",
+    "updated_at": "2021-02-08T19:51:44.714Z",
+    "finished_at": "2021-02-08T19:51:44.537Z",
+    "deadline_at": "2021-02-09T16:20:23.000-03:00",
+    "status": "closed",
+    "auto_close": true,
+    "locale": "pt-BR",
+    "metadata": {},
+    "sequence_enabled": false,
+    "signable_group": null,
+    "remind_interval": null,
+    "downloads": {
+      "original_file_url": "https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/20/26/be98cc0e-03d9-453c-bde2-a1f867df93ba/file.pdf?X-Amz-Expires=300&X-Amz-Date=20210208T195144Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEID%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCh5C4pMBPsHfkHWtz3d9j8Wh6urxCCSvO%2B7UhIc%2F6H%2FAIgIrha9F8BrYwYoy6Pcv8ABqEgAfviIJlfSekAvIj54HMqtAMIeRAAGgw2OTY5NzYzNjA5NjciDNsT7p6pFzn%2BfnF78CqRA17N0TuccJbCi4lgSPb8iEN5G4rr2rg4Jpz11QHawC%2BtyiHx6HcFmqcOAzDxs%2BqQlFFOZFmHWqWgYWOuvUZtjSyORj8tGkKvMmwH2Txqhqggszk%2BWpMgkdF3KQg9Co3WsHTzyjgxmZ1BUg2ZB6bJ03mxz6v98t779ukw4kloxGeo8Sx%2BpyY8wDXSa0TQJ3YKAUpXVYqVeg2A7hFUKoBej%2Fsqmwvcw0KJgAHhs1190l6KWVOGNoI4rqSpTo%2FzNrrl7xsSoyDz%2F8Qp7BQo2fHrMYUr7v5qVpabew9z7g0ocD9jAWIzhQh2DMfAkkQalP8B1hacwny4hQ07%2BnR0sv5BHck1e64%2BwwciDhdQgzBXpogM%2F54RaPVVo218KN%2Bn4flmKKdisXO1%2F2180NlBoYTVSN2jPP%2FeG7mZCxRUx3kJZ8rL3Xs6%2F5Mbs92z4IYAfaTfySc%2BmXclcsJkrqfADsBbkKrlakN0kDcAiRE0yiAVZVLsjjV%2BDTDI7bUf0dVAlmVxrU%2BUonpalntu8H1vc9cI%2B8TtMJC7hYEGOusBxonbq3xZblPG2JfE88FnPZ8QXHXqIRLcgDakuPTZ96uNGmkS2DrTwGJJquWoMVmNk1tzz0H9TN%2FrUwFlQ6T9UiDj3R2dHAKnC2%2FaG32DXkllPFO%2FENHb85YiOaAQsVSSC%2BnTBc63NUWE1SpESdxJ9K5HDnvvRLQMjHTLKmzu1GYtF9KCAmiwNTrT%2FtoIhLuvqA8w1rDrexvuSliFK81vBjYZ%2BtbbdDh9Vy%2BpTuhu3EiUE5N3BXSlJts8UVmp6SX81jewWtP%2BLR88BCOntj8GkApbFQyQ0X1uVSGsJ4%2FvjGmxbk7rheyqMCKuzQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVYDVAK45%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4f913546b8d9a37b14253ef23394bc7da4b0fee4775fc35c00c3b394e5d55fd1"
+    },
+    "template": null,
+    "signers": [
+      {
+        "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+        "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "request_signature_key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "email": "we.silveira@outlook.com",
+        "name": "TESTE WELLINGTON",
+        "has_documentation": true,
+        "documentation": null,
+        "birthday": null,
+        "phone_number": null,
+        "sign_as": "sign",
+        "delivery": "email",
+        "url": "http://example.org/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "auths": [
+          "email"
+        ],
+        "created_at": "2021-02-08T19:20:26.467Z",
+        "signature": {
+          "name": "TESTE WELLINGTON",
+          "email": "we.silveira@outlook.com",
+          "birthday": "1991-06-05",
+          "documentation": "045.054.163-05",
+          "validation": {
+            "status": "pending",
+            "name": "TESTE WELLINGTON"
+          },
+          "ip_address": "179.48.2.185",
+          "signed_at": "2021-02-08T19:51:44.404Z",
+          "sign_as": "sign"
+        }
+      }
+    ],
+    "events": [
+      {
+        "name": "auto_close",
+        "data": null,
+        "occurred_at": "2021-02-08T19:51:44.723Z"
+      },
+      {
+        "name": "sign",
+        "data": {
+          "signer": {
+            "sign_as": "sign",
+            "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+            "email": "we.silveira@outlook.com",
+            "name": "TESTE WELLINGTON",
+            "birthday": "1991-06-05",
+            "documentation": "045.054.163-05",
+            "has_documentation": true,
+            "created_at": "2021-02-08T16:20:26.467-03:00",
+            "auths": [
+              "email"
+            ],
+            "selfie_enabled": false,
+            "handwritten_enabled": false,
+            "official_document_enabled": false,
+            "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+            "url": "https://app.clicksign.com/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+            "address": "179.48.2.185",
+            "validation": {
+              "status": "pending",
+              "name": "TESTE WELLINGTON"
+            },
+            "selfie_name": null,
+            "selfie_hash": null,
+            "handwritten_hash": null,
+            "handwritten_name": null,
+            "official_document_front_hash": null,
+            "official_document_back_hash": null,
+            "official_front_name": "frente 08 fev 2021, 16-51-44.png",
+            "official_back_name": "verso 08 fev 2021, 16-51-44.png"
+          },
+          "secret_hmac": null,
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "log_version": "1.96.0",
+          "url": "https://app.clicksign.com"
+        },
+        "occurred_at": "2021-02-08T19:51:44.477Z"
+      },
+      {
+        "name": "add_signer",
+        "data": {
+          "user": {
+            "email": "atendimento@heaolu.com.br",
+            "name": "Atendimento "
+          },
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "signers": [
+            {
+              "sign_as": "sign",
+              "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+              "email": "we.silveira@outlook.com",
+              "name": "TESTE WELLINGTON",
+              "birthday": null,
+              "documentation": null,
+              "has_documentation": true,
+              "created_at": "2021-02-08T16:20:26.467-03:00",
+              "auths": [
+                "email"
+              ],
+              "selfie_enabled": false,
+              "handwritten_enabled": false,
+              "official_document_enabled": false,
+              "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+              "url": "https://app.clicksign.com/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2"
+            }
+          ]
+        },
+        "occurred_at": "2021-02-08T19:20:26.509Z"
+      },
+      {
+        "name": "upload",
+        "data": {
+          "user": {
+            "email": "atendimento@heaolu.com.br",
+            "name": "Atendimento "
+          },
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "deadline_at": "2021-02-09T16:20:23.000-03:00",
+          "auto_close": true,
+          "locale": "pt-BR"
+        },
+        "occurred_at": "2021-02-08T19:20:26.457Z"
+      }
+    ],
+    "attachments": []
+  }
+}
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Não foi gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-08 22:19:37
+RECEIVED FROM CLICKSIGN
+{
+  "event": {
+    "name": "auto_close",
+    "data": null,
+    "occurred_at": "2021-02-08T16:51:44.723-03:00"
+  },
+  "document": {
+    "key": "69e08837-589c-43f7-99e7-dcb9a44b6bdc",
+    "account_key": "dcf81051-48ed-4791-9a4a-3637ac0b6907",
+    "path": "/Proposta_final_424.pdf",
+    "filename": "Proposta_final_424.pdf",
+    "uploaded_at": "2021-02-08T19:20:26.439Z",
+    "updated_at": "2021-02-08T19:51:44.714Z",
+    "finished_at": "2021-02-08T19:51:44.537Z",
+    "deadline_at": "2021-02-09T16:20:23.000-03:00",
+    "status": "closed",
+    "auto_close": true,
+    "locale": "pt-BR",
+    "metadata": {},
+    "sequence_enabled": false,
+    "signable_group": null,
+    "remind_interval": null,
+    "downloads": {
+      "original_file_url": "https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/20/26/be98cc0e-03d9-453c-bde2-a1f867df93ba/file.pdf?X-Amz-Expires=300&X-Amz-Date=20210208T195144Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEID%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCh5C4pMBPsHfkHWtz3d9j8Wh6urxCCSvO%2B7UhIc%2F6H%2FAIgIrha9F8BrYwYoy6Pcv8ABqEgAfviIJlfSekAvIj54HMqtAMIeRAAGgw2OTY5NzYzNjA5NjciDNsT7p6pFzn%2BfnF78CqRA17N0TuccJbCi4lgSPb8iEN5G4rr2rg4Jpz11QHawC%2BtyiHx6HcFmqcOAzDxs%2BqQlFFOZFmHWqWgYWOuvUZtjSyORj8tGkKvMmwH2Txqhqggszk%2BWpMgkdF3KQg9Co3WsHTzyjgxmZ1BUg2ZB6bJ03mxz6v98t779ukw4kloxGeo8Sx%2BpyY8wDXSa0TQJ3YKAUpXVYqVeg2A7hFUKoBej%2Fsqmwvcw0KJgAHhs1190l6KWVOGNoI4rqSpTo%2FzNrrl7xsSoyDz%2F8Qp7BQo2fHrMYUr7v5qVpabew9z7g0ocD9jAWIzhQh2DMfAkkQalP8B1hacwny4hQ07%2BnR0sv5BHck1e64%2BwwciDhdQgzBXpogM%2F54RaPVVo218KN%2Bn4flmKKdisXO1%2F2180NlBoYTVSN2jPP%2FeG7mZCxRUx3kJZ8rL3Xs6%2F5Mbs92z4IYAfaTfySc%2BmXclcsJkrqfADsBbkKrlakN0kDcAiRE0yiAVZVLsjjV%2BDTDI7bUf0dVAlmVxrU%2BUonpalntu8H1vc9cI%2B8TtMJC7hYEGOusBxonbq3xZblPG2JfE88FnPZ8QXHXqIRLcgDakuPTZ96uNGmkS2DrTwGJJquWoMVmNk1tzz0H9TN%2FrUwFlQ6T9UiDj3R2dHAKnC2%2FaG32DXkllPFO%2FENHb85YiOaAQsVSSC%2BnTBc63NUWE1SpESdxJ9K5HDnvvRLQMjHTLKmzu1GYtF9KCAmiwNTrT%2FtoIhLuvqA8w1rDrexvuSliFK81vBjYZ%2BtbbdDh9Vy%2BpTuhu3EiUE5N3BXSlJts8UVmp6SX81jewWtP%2BLR88BCOntj8GkApbFQyQ0X1uVSGsJ4%2FvjGmxbk7rheyqMCKuzQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVYDVAK45%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4f913546b8d9a37b14253ef23394bc7da4b0fee4775fc35c00c3b394e5d55fd1"
+    },
+    "template": null,
+    "signers": [
+      {
+        "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+        "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "request_signature_key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "email": "we.silveira@outlook.com",
+        "name": "TESTE WELLINGTON",
+        "has_documentation": true,
+        "documentation": null,
+        "birthday": null,
+        "phone_number": null,
+        "sign_as": "sign",
+        "delivery": "email",
+        "url": "http://example.org/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "auths": [
+          "email"
+        ],
+        "created_at": "2021-02-08T19:20:26.467Z",
+        "signature": {
+          "name": "TESTE WELLINGTON",
+          "email": "we.silveira@outlook.com",
+          "birthday": "1991-06-05",
+          "documentation": "045.054.163-05",
+          "validation": {
+            "status": "pending",
+            "name": "TESTE WELLINGTON"
+          },
+          "ip_address": "179.48.2.185",
+          "signed_at": "2021-02-08T19:51:44.404Z",
+          "sign_as": "sign"
+        }
+      }
+    ],
+    "events": [
+      {
+        "name": "auto_close",
+        "data": null,
+        "occurred_at": "2021-02-08T19:51:44.723Z"
+      },
+      {
+        "name": "sign",
+        "data": {
+          "signer": {
+            "sign_as": "sign",
+            "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+            "email": "we.silveira@outlook.com",
+            "name": "TESTE WELLINGTON",
+            "birthday": "1991-06-05",
+            "documentation": "045.054.163-05",
+            "has_documentation": true,
+            "created_at": "2021-02-08T16:20:26.467-03:00",
+            "auths": [
+              "email"
+            ],
+            "selfie_enabled": false,
+            "handwritten_enabled": false,
+            "official_document_enabled": false,
+            "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+            "url": "https://app.clicksign.com/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+            "address": "179.48.2.185",
+            "validation": {
+              "status": "pending",
+              "name": "TESTE WELLINGTON"
+            },
+            "selfie_name": null,
+            "selfie_hash": null,
+            "handwritten_hash": null,
+            "handwritten_name": null,
+            "official_document_front_hash": null,
+            "official_document_back_hash": null,
+            "official_front_name": "frente 08 fev 2021, 16-51-44.png",
+            "official_back_name": "verso 08 fev 2021, 16-51-44.png"
+          },
+          "secret_hmac": null,
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "log_version": "1.96.0",
+          "url": "https://app.clicksign.com"
+        },
+        "occurred_at": "2021-02-08T19:51:44.477Z"
+      },
+      {
+        "name": "add_signer",
+        "data": {
+          "user": {
+            "email": "atendimento@heaolu.com.br",
+            "name": "Atendimento "
+          },
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "signers": [
+            {
+              "sign_as": "sign",
+              "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+              "email": "we.silveira@outlook.com",
+              "name": "TESTE WELLINGTON",
+              "birthday": null,
+              "documentation": null,
+              "has_documentation": true,
+              "created_at": "2021-02-08T16:20:26.467-03:00",
+              "auths": [
+                "email"
+              ],
+              "selfie_enabled": false,
+              "handwritten_enabled": false,
+              "official_document_enabled": false,
+              "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+              "url": "https://app.clicksign.com/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2"
+            }
+          ]
+        },
+        "occurred_at": "2021-02-08T19:20:26.509Z"
+      },
+      {
+        "name": "upload",
+        "data": {
+          "user": {
+            "email": "atendimento@heaolu.com.br",
+            "name": "Atendimento "
+          },
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "deadline_at": "2021-02-09T16:20:23.000-03:00",
+          "auto_close": true,
+          "locale": "pt-BR"
+        },
+        "occurred_at": "2021-02-08T19:20:26.457Z"
+      }
+    ],
+    "attachments": []
+  }
+}
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Não foi gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-08 22:23:40
+RECEIVED FROM CLICKSIGN
+{
+  "event": {
+    "name": "auto_close",
+    "data": null,
+    "occurred_at": "2021-02-08T16:51:44.723-03:00"
+  },
+  "document": {
+    "key": "69e08837-589c-43f7-99e7-dcb9a44b6bdc",
+    "account_key": "dcf81051-48ed-4791-9a4a-3637ac0b6907",
+    "path": "/Proposta_final_424.pdf",
+    "filename": "Proposta_final_424.pdf",
+    "uploaded_at": "2021-02-08T19:20:26.439Z",
+    "updated_at": "2021-02-08T19:51:44.714Z",
+    "finished_at": "2021-02-08T19:51:44.537Z",
+    "deadline_at": "2021-02-09T16:20:23.000-03:00",
+    "status": "closed",
+    "auto_close": true,
+    "locale": "pt-BR",
+    "metadata": {},
+    "sequence_enabled": false,
+    "signable_group": null,
+    "remind_interval": null,
+    "downloads": {
+      "original_file_url": "https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/20/26/be98cc0e-03d9-453c-bde2-a1f867df93ba/file.pdf?X-Amz-Expires=300&X-Amz-Date=20210208T195144Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEID%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCh5C4pMBPsHfkHWtz3d9j8Wh6urxCCSvO%2B7UhIc%2F6H%2FAIgIrha9F8BrYwYoy6Pcv8ABqEgAfviIJlfSekAvIj54HMqtAMIeRAAGgw2OTY5NzYzNjA5NjciDNsT7p6pFzn%2BfnF78CqRA17N0TuccJbCi4lgSPb8iEN5G4rr2rg4Jpz11QHawC%2BtyiHx6HcFmqcOAzDxs%2BqQlFFOZFmHWqWgYWOuvUZtjSyORj8tGkKvMmwH2Txqhqggszk%2BWpMgkdF3KQg9Co3WsHTzyjgxmZ1BUg2ZB6bJ03mxz6v98t779ukw4kloxGeo8Sx%2BpyY8wDXSa0TQJ3YKAUpXVYqVeg2A7hFUKoBej%2Fsqmwvcw0KJgAHhs1190l6KWVOGNoI4rqSpTo%2FzNrrl7xsSoyDz%2F8Qp7BQo2fHrMYUr7v5qVpabew9z7g0ocD9jAWIzhQh2DMfAkkQalP8B1hacwny4hQ07%2BnR0sv5BHck1e64%2BwwciDhdQgzBXpogM%2F54RaPVVo218KN%2Bn4flmKKdisXO1%2F2180NlBoYTVSN2jPP%2FeG7mZCxRUx3kJZ8rL3Xs6%2F5Mbs92z4IYAfaTfySc%2BmXclcsJkrqfADsBbkKrlakN0kDcAiRE0yiAVZVLsjjV%2BDTDI7bUf0dVAlmVxrU%2BUonpalntu8H1vc9cI%2B8TtMJC7hYEGOusBxonbq3xZblPG2JfE88FnPZ8QXHXqIRLcgDakuPTZ96uNGmkS2DrTwGJJquWoMVmNk1tzz0H9TN%2FrUwFlQ6T9UiDj3R2dHAKnC2%2FaG32DXkllPFO%2FENHb85YiOaAQsVSSC%2BnTBc63NUWE1SpESdxJ9K5HDnvvRLQMjHTLKmzu1GYtF9KCAmiwNTrT%2FtoIhLuvqA8w1rDrexvuSliFK81vBjYZ%2BtbbdDh9Vy%2BpTuhu3EiUE5N3BXSlJts8UVmp6SX81jewWtP%2BLR88BCOntj8GkApbFQyQ0X1uVSGsJ4%2FvjGmxbk7rheyqMCKuzQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVYDVAK45%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4f913546b8d9a37b14253ef23394bc7da4b0fee4775fc35c00c3b394e5d55fd1"
+    },
+    "template": null,
+    "signers": [
+      {
+        "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+        "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "request_signature_key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "email": "we.silveira@outlook.com",
+        "name": "TESTE WELLINGTON",
+        "has_documentation": true,
+        "documentation": null,
+        "birthday": null,
+        "phone_number": null,
+        "sign_as": "sign",
+        "delivery": "email",
+        "url": "http://example.org/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "auths": [
+          "email"
+        ],
+        "created_at": "2021-02-08T19:20:26.467Z",
+        "signature": {
+          "name": "TESTE WELLINGTON",
+          "email": "we.silveira@outlook.com",
+          "birthday": "1991-06-05",
+          "documentation": "045.054.163-05",
+          "validation": {
+            "status": "pending",
+            "name": "TESTE WELLINGTON"
+          },
+          "ip_address": "179.48.2.185",
+          "signed_at": "2021-02-08T19:51:44.404Z",
+          "sign_as": "sign"
+        }
+      }
+    ],
+    "events": [
+      {
+        "name": "auto_close",
+        "data": null,
+        "occurred_at": "2021-02-08T19:51:44.723Z"
+      },
+      {
+        "name": "sign",
+        "data": {
+          "signer": {
+            "sign_as": "sign",
+            "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+            "email": "we.silveira@outlook.com",
+            "name": "TESTE WELLINGTON",
+            "birthday": "1991-06-05",
+            "documentation": "045.054.163-05",
+            "has_documentation": true,
+            "created_at": "2021-02-08T16:20:26.467-03:00",
+            "auths": [
+              "email"
+            ],
+            "selfie_enabled": false,
+            "handwritten_enabled": false,
+            "official_document_enabled": false,
+            "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+            "url": "https://app.clicksign.com/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+            "address": "179.48.2.185",
+            "validation": {
+              "status": "pending",
+              "name": "TESTE WELLINGTON"
+            },
+            "selfie_name": null,
+            "selfie_hash": null,
+            "handwritten_hash": null,
+            "handwritten_name": null,
+            "official_document_front_hash": null,
+            "official_document_back_hash": null,
+            "official_front_name": "frente 08 fev 2021, 16-51-44.png",
+            "official_back_name": "verso 08 fev 2021, 16-51-44.png"
+          },
+          "secret_hmac": null,
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "log_version": "1.96.0",
+          "url": "https://app.clicksign.com"
+        },
+        "occurred_at": "2021-02-08T19:51:44.477Z"
+      },
+      {
+        "name": "add_signer",
+        "data": {
+          "user": {
+            "email": "atendimento@heaolu.com.br",
+            "name": "Atendimento "
+          },
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "signers": [
+            {
+              "sign_as": "sign",
+              "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+              "email": "we.silveira@outlook.com",
+              "name": "TESTE WELLINGTON",
+              "birthday": null,
+              "documentation": null,
+              "has_documentation": true,
+              "created_at": "2021-02-08T16:20:26.467-03:00",
+              "auths": [
+                "email"
+              ],
+              "selfie_enabled": false,
+              "handwritten_enabled": false,
+              "official_document_enabled": false,
+              "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+              "url": "https://app.clicksign.com/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2"
+            }
+          ]
+        },
+        "occurred_at": "2021-02-08T19:20:26.509Z"
+      },
+      {
+        "name": "upload",
+        "data": {
+          "user": {
+            "email": "atendimento@heaolu.com.br",
+            "name": "Atendimento "
+          },
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "deadline_at": "2021-02-09T16:20:23.000-03:00",
+          "auto_close": true,
+          "locale": "pt-BR"
+        },
+        "occurred_at": "2021-02-08T19:20:26.457Z"
+      }
+    ],
+    "attachments": []
+  }
+}
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Não foi gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-08 22:24:49
+RECEIVED FROM CLICKSIGN
+{
+  "event": {
+    "name": "auto_close",
+    "data": null,
+    "occurred_at": "2021-02-08T16:51:44.723-03:00"
+  },
+  "document": {
+    "key": "69e08837-589c-43f7-99e7-dcb9a44b6bdc",
+    "account_key": "dcf81051-48ed-4791-9a4a-3637ac0b6907",
+    "path": "/Proposta_final_424.pdf",
+    "filename": "Proposta_final_424.pdf",
+    "uploaded_at": "2021-02-08T19:20:26.439Z",
+    "updated_at": "2021-02-08T19:51:44.714Z",
+    "finished_at": "2021-02-08T19:51:44.537Z",
+    "deadline_at": "2021-02-09T16:20:23.000-03:00",
+    "status": "closed",
+    "auto_close": true,
+    "locale": "pt-BR",
+    "metadata": {},
+    "sequence_enabled": false,
+    "signable_group": null,
+    "remind_interval": null,
+    "downloads": {
+      "original_file_url": "https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/20/26/be98cc0e-03d9-453c-bde2-a1f867df93ba/file.pdf?X-Amz-Expires=300&X-Amz-Date=20210208T195144Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEID%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCh5C4pMBPsHfkHWtz3d9j8Wh6urxCCSvO%2B7UhIc%2F6H%2FAIgIrha9F8BrYwYoy6Pcv8ABqEgAfviIJlfSekAvIj54HMqtAMIeRAAGgw2OTY5NzYzNjA5NjciDNsT7p6pFzn%2BfnF78CqRA17N0TuccJbCi4lgSPb8iEN5G4rr2rg4Jpz11QHawC%2BtyiHx6HcFmqcOAzDxs%2BqQlFFOZFmHWqWgYWOuvUZtjSyORj8tGkKvMmwH2Txqhqggszk%2BWpMgkdF3KQg9Co3WsHTzyjgxmZ1BUg2ZB6bJ03mxz6v98t779ukw4kloxGeo8Sx%2BpyY8wDXSa0TQJ3YKAUpXVYqVeg2A7hFUKoBej%2Fsqmwvcw0KJgAHhs1190l6KWVOGNoI4rqSpTo%2FzNrrl7xsSoyDz%2F8Qp7BQo2fHrMYUr7v5qVpabew9z7g0ocD9jAWIzhQh2DMfAkkQalP8B1hacwny4hQ07%2BnR0sv5BHck1e64%2BwwciDhdQgzBXpogM%2F54RaPVVo218KN%2Bn4flmKKdisXO1%2F2180NlBoYTVSN2jPP%2FeG7mZCxRUx3kJZ8rL3Xs6%2F5Mbs92z4IYAfaTfySc%2BmXclcsJkrqfADsBbkKrlakN0kDcAiRE0yiAVZVLsjjV%2BDTDI7bUf0dVAlmVxrU%2BUonpalntu8H1vc9cI%2B8TtMJC7hYEGOusBxonbq3xZblPG2JfE88FnPZ8QXHXqIRLcgDakuPTZ96uNGmkS2DrTwGJJquWoMVmNk1tzz0H9TN%2FrUwFlQ6T9UiDj3R2dHAKnC2%2FaG32DXkllPFO%2FENHb85YiOaAQsVSSC%2BnTBc63NUWE1SpESdxJ9K5HDnvvRLQMjHTLKmzu1GYtF9KCAmiwNTrT%2FtoIhLuvqA8w1rDrexvuSliFK81vBjYZ%2BtbbdDh9Vy%2BpTuhu3EiUE5N3BXSlJts8UVmp6SX81jewWtP%2BLR88BCOntj8GkApbFQyQ0X1uVSGsJ4%2FvjGmxbk7rheyqMCKuzQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVYDVAK45%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=4f913546b8d9a37b14253ef23394bc7da4b0fee4775fc35c00c3b394e5d55fd1"
+    },
+    "template": null,
+    "signers": [
+      {
+        "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+        "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "request_signature_key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "email": "we.silveira@outlook.com",
+        "name": "TESTE WELLINGTON",
+        "has_documentation": true,
+        "documentation": null,
+        "birthday": null,
+        "phone_number": null,
+        "sign_as": "sign",
+        "delivery": "email",
+        "url": "http://example.org/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+        "auths": [
+          "email"
+        ],
+        "created_at": "2021-02-08T19:20:26.467Z",
+        "signature": {
+          "name": "TESTE WELLINGTON",
+          "email": "we.silveira@outlook.com",
+          "birthday": "1991-06-05",
+          "documentation": "045.054.163-05",
+          "validation": {
+            "status": "pending",
+            "name": "TESTE WELLINGTON"
+          },
+          "ip_address": "179.48.2.185",
+          "signed_at": "2021-02-08T19:51:44.404Z",
+          "sign_as": "sign"
+        }
+      }
+    ],
+    "events": [
+      {
+        "name": "auto_close",
+        "data": null,
+        "occurred_at": "2021-02-08T19:51:44.723Z"
+      },
+      {
+        "name": "sign",
+        "data": {
+          "signer": {
+            "sign_as": "sign",
+            "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+            "email": "we.silveira@outlook.com",
+            "name": "TESTE WELLINGTON",
+            "birthday": "1991-06-05",
+            "documentation": "045.054.163-05",
+            "has_documentation": true,
+            "created_at": "2021-02-08T16:20:26.467-03:00",
+            "auths": [
+              "email"
+            ],
+            "selfie_enabled": false,
+            "handwritten_enabled": false,
+            "official_document_enabled": false,
+            "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+            "url": "https://app.clicksign.com/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+            "address": "179.48.2.185",
+            "validation": {
+              "status": "pending",
+              "name": "TESTE WELLINGTON"
+            },
+            "selfie_name": null,
+            "selfie_hash": null,
+            "handwritten_hash": null,
+            "handwritten_name": null,
+            "official_document_front_hash": null,
+            "official_document_back_hash": null,
+            "official_front_name": "frente 08 fev 2021, 16-51-44.png",
+            "official_back_name": "verso 08 fev 2021, 16-51-44.png"
+          },
+          "secret_hmac": null,
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "log_version": "1.96.0",
+          "url": "https://app.clicksign.com"
+        },
+        "occurred_at": "2021-02-08T19:51:44.477Z"
+      },
+      {
+        "name": "add_signer",
+        "data": {
+          "user": {
+            "email": "atendimento@heaolu.com.br",
+            "name": "Atendimento "
+          },
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "signers": [
+            {
+              "sign_as": "sign",
+              "key": "c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2",
+              "email": "we.silveira@outlook.com",
+              "name": "TESTE WELLINGTON",
+              "birthday": null,
+              "documentation": null,
+              "has_documentation": true,
+              "created_at": "2021-02-08T16:20:26.467-03:00",
+              "auths": [
+                "email"
+              ],
+              "selfie_enabled": false,
+              "handwritten_enabled": false,
+              "official_document_enabled": false,
+              "list_key": "13b62465-a493-4562-8f09-4f6151891d1f",
+              "url": "https://app.clicksign.com/sign/c3e2cb6c-31ea-4d07-a8ca-5d47bef8f6f2"
+            }
+          ]
+        },
+        "occurred_at": "2021-02-08T19:20:26.509Z"
+      },
+      {
+        "name": "upload",
+        "data": {
+          "user": {
+            "email": "atendimento@heaolu.com.br",
+            "name": "Atendimento "
+          },
+          "account": {
+            "key": "dcf81051-48ed-4791-9a4a-3637ac0b6907"
+          },
+          "deadline_at": "2021-02-09T16:20:23.000-03:00",
+          "auto_close": true,
+          "locale": "pt-BR"
+        },
+        "occurred_at": "2021-02-08T19:20:26.457Z"
+      }
+    ],
+    "attachments": []
+  }
+}
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Não foi gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-08 22:26:40
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Não foi gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-08 22:30:31
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=300&X-Amz-Date=20210208T213031Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=6120138d45c0604c2a049f488628c8374d550a3c4dde75b791283a2cf089ac07
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Não foi gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-08 22:39:15
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T213916Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIDnEWXazku5IkdYdEeU6UUqLF%2BDUYSA6UNYpNrS5wDtlAiEA3IVfbeH4Ejy%2B0cJ3jrAplY%2BdwMSKM6NNQYD0hUZRW2gqtAMIfhAAGgw2OTY5NzYzNjA5NjciDB8gzz5MPjsEXuTNkiqRA2s3SeRK%2F%2BnNXDaE6BidRVEk5gtANfF3sQtHrtdyW4pNsCBsgXEIUpJznbqISsTHeVRAFfIJmWDrgtdwU%2FZ84Y7a%2FoOWA0cH5xQaLttiZyQ5Hs%2BcGUfgsoR3U7w51dafbg%2FBa%2F6CUwdVVw4vjtRQy7Rfia2%2Fzx7oyblmRoVLAoJBy%2F4%2FS3P3BkC%2B5uOzd%2FAuqln4TCnA8XJCJIacBycSyOCgkaK5g0KX86FlZYJsuvgOid2g4cskf%2Fk7NsUdh8vc%2Fi2htAfeN1LUYN%2Bn1CWM1vpOJRLAJRaRtVSTxCCG8E92v3vpr%2B2BHkw5z3sXp6LIE282irMugT8w69Y9iu7Gvguwjn0f%2Bie5JnufKSHlSzIPJy2bSgsXdXpwUX246dz46HuztjG5HO5KnehjUdw8aI7JNzQOYENpLq8rpQKiQO07z92vvbNFNVKtLWduuKU%2Fe5poQH%2B2UljpRQa3cIrhJNvCbRMBe7PvjNNhTjX9hh28vcH7cMK0F8MMceRiNmj7y%2BkRrLLd0XToLRIDwRSA5W5HMJXFhoEGOusByKItivEet01Hz0lwwOuyR8beHuZ60QWP0iQOdjRH40ZFUtQXf7gqwLQ2TBd%2FgBD2rK%2FFO17pNWMKx%2FaIPy9Olt1DoGbDNeQVBl39ZTk8kV9uw%2BRoazYhQ8ltNL982igbH5mXBOlezDnEoIfF%2BDTjyPuKv%2FOcfLzhKhKukJvRx7P99a1SwWF3wCCD8Uac8OFH%2BMk4Cb%2Bk63LWkQBgLauDtKlY0ZGY15naY0I%2B145kiukVRsTWtbxMa4Xq4tlt16Pi5onRRQ9JJqpA7K7%2FnueDN0elRglleVowOo8ggmFOrLWQt%2BhnviI46bLTdA%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDUZEFA3YW%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=927cded2960bb93ace0f4afb9379f0ceab11f6ae195366b51dbfc26048044685
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-08 23:22:32
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T222231Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=dff98d76fcccacf842bd7542c06e6e97e561a17ff4f6517930b4999dd4487203
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-08 23:53:29
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T225328Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=5f9f7202f64d878726686e59717a599e3a6da99333d7175144ce27cea331169a
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Não foi gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-08 23:57:09
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=302&X-Amz-Date=20210208T225708Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICvwOf32pcMOHkcfKjw8Xti3KmiLM3Z4NNTpQNU%2BgBi%2FAiEAuid3va8xmqxGgBelS6ip2TH0rjWopCpt4rHpqCEL5NoqtAMIfhAAGgw2OTY5NzYzNjA5NjciDB7H3mGBOfc%2B2RdOtiqRA0zmTkEwxRr5KVOZPPVfYBm%2BNLpmzSpjKBr7t9yziskT5AcpHhrlHxBKR2AWqb1tp%2BJCSdlr6VWr%2FlkbUGySs9BLZRRjeQ31rbAztKhQDUK9jNE36IRndXxzMAkgqPD1BN%2BnaFwWJBVNP2iNyvZFMQMMSeRnGPYSMaQQKtsCKk1n1T3GoK3bFGumcRjr3omL7G2tJOSTYlWpmA%2BLQQLK%2FTFlOcS05kCozDfq90yObCIlsSVJ3obbESdECcsgmUG6%2BM%2BfuqoDJMn1PC0ylvqw9PRxIes%2BX0JEexobJ6jXkBnKD1NTm%2F9xd0%2B4Qod3fhdqJADFRDKO3G4QxqgstgcNoJ2iSUT1RqgijDpRj1KYCOCZGWcLmpLQSKIoFpZy3w%2FOAYXwH09YDOPmYNEYwEiCSAfs7CEvMH8qGpe0JUpNJspGn6Tj5zy5AKQccg2Bc%2BKpJm24DXFVHquUlzI4aItIUCI%2B4B1WoN5vcomboDZulu0ZYMrvxiGDBhygxfWdl3iss4jCb8XAke7XDXrex7d6rJxbMO3GhoEGOusBKawrPgGe%2FmwH9kUyQqTnqRKDbpLFR08oHLR9UFK8VLV5YYd9pRgZmbZBvXr3pt3nG1CbPPvmojKs0PzKFi1oD%2FV%2Fcoh0OdMPiRaRf%2FdKBIajFow8rfPDzFzP6ylrYxq8XQA%2B5wUjSQEgp1RiAEjFekqAxkNJoYU6RpTTy32A7XMLMcJbMte%2BpFtHSFQ27MV%2BB%2FGfsMZ6Twlf1ZmnMqADpwPz2zD6gNmL3eLmZX2rD06DKE3EaWG5rZIPhFYR4d9wsbHL4x8Sk7EsPbn1P1%2Fb6K9yHUmNCdKlg9VxJPYFP0LfD8mQW42f%2BpOo6w%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDS6T4KIM2%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f5854635bbcf643f8db0f4994cdc25fd724afe1cc8fb66b8124b0c4537222113
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Não foi gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-08 23:58:16
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T225815Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=b513c5e7b2b3e111fbd8acab2b9de44428509ac2c43bbd5cd0d4ee1069ebe4b0
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Não foi gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-08 23:59:33
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=302&X-Amz-Date=20210208T225932Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=244b5ce0b9455e3bd25254eb584599f69078e9d426d643fef0f36468da6605e4
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Não foi gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:00:21
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T230021Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=f10914061c5609293ebdd28058a4cbf2faf3922c9f44e5e839e43b1d056a5950
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Não foi gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:01:05
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T230105Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=24d84ee38ddfddcd99fffc7156e8119c7d5fb51fea579a6d033ccd1183b91a30
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Não foi gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:02:15
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T230215Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=3742f791b15b7e3faf1766762fae34d3901436d03ec050ec16d9e3561224410e
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Não foi gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:04:09
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=302&X-Amz-Date=20210208T230408Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICvwOf32pcMOHkcfKjw8Xti3KmiLM3Z4NNTpQNU%2BgBi%2FAiEAuid3va8xmqxGgBelS6ip2TH0rjWopCpt4rHpqCEL5NoqtAMIfhAAGgw2OTY5NzYzNjA5NjciDB7H3mGBOfc%2B2RdOtiqRA0zmTkEwxRr5KVOZPPVfYBm%2BNLpmzSpjKBr7t9yziskT5AcpHhrlHxBKR2AWqb1tp%2BJCSdlr6VWr%2FlkbUGySs9BLZRRjeQ31rbAztKhQDUK9jNE36IRndXxzMAkgqPD1BN%2BnaFwWJBVNP2iNyvZFMQMMSeRnGPYSMaQQKtsCKk1n1T3GoK3bFGumcRjr3omL7G2tJOSTYlWpmA%2BLQQLK%2FTFlOcS05kCozDfq90yObCIlsSVJ3obbESdECcsgmUG6%2BM%2BfuqoDJMn1PC0ylvqw9PRxIes%2BX0JEexobJ6jXkBnKD1NTm%2F9xd0%2B4Qod3fhdqJADFRDKO3G4QxqgstgcNoJ2iSUT1RqgijDpRj1KYCOCZGWcLmpLQSKIoFpZy3w%2FOAYXwH09YDOPmYNEYwEiCSAfs7CEvMH8qGpe0JUpNJspGn6Tj5zy5AKQccg2Bc%2BKpJm24DXFVHquUlzI4aItIUCI%2B4B1WoN5vcomboDZulu0ZYMrvxiGDBhygxfWdl3iss4jCb8XAke7XDXrex7d6rJxbMO3GhoEGOusBKawrPgGe%2FmwH9kUyQqTnqRKDbpLFR08oHLR9UFK8VLV5YYd9pRgZmbZBvXr3pt3nG1CbPPvmojKs0PzKFi1oD%2FV%2Fcoh0OdMPiRaRf%2FdKBIajFow8rfPDzFzP6ylrYxq8XQA%2B5wUjSQEgp1RiAEjFekqAxkNJoYU6RpTTy32A7XMLMcJbMte%2BpFtHSFQ27MV%2BB%2FGfsMZ6Twlf1ZmnMqADpwPz2zD6gNmL3eLmZX2rD06DKE3EaWG5rZIPhFYR4d9wsbHL4x8Sk7EsPbn1P1%2Fb6K9yHUmNCdKlg9VxJPYFP0LfD8mQW42f%2BpOo6w%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDS6T4KIM2%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=890c46b0bec46171b322f054bfce3520232c2162cf3db407ec4c2b3644ba9fb1
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:12:17
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=300&X-Amz-Date=20210208T231217Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=bf275b0fd0e0df46bae19579ac1c63b4c383d6affc109ee97f16867b9c8b4cab
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:16:28
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T231627Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1c410c75b0972a85af7d53d7702633c52ab384a9b5b15ba62d8df239a57348d2
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:17:51
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T231751Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICvwOf32pcMOHkcfKjw8Xti3KmiLM3Z4NNTpQNU%2BgBi%2FAiEAuid3va8xmqxGgBelS6ip2TH0rjWopCpt4rHpqCEL5NoqtAMIfhAAGgw2OTY5NzYzNjA5NjciDB7H3mGBOfc%2B2RdOtiqRA0zmTkEwxRr5KVOZPPVfYBm%2BNLpmzSpjKBr7t9yziskT5AcpHhrlHxBKR2AWqb1tp%2BJCSdlr6VWr%2FlkbUGySs9BLZRRjeQ31rbAztKhQDUK9jNE36IRndXxzMAkgqPD1BN%2BnaFwWJBVNP2iNyvZFMQMMSeRnGPYSMaQQKtsCKk1n1T3GoK3bFGumcRjr3omL7G2tJOSTYlWpmA%2BLQQLK%2FTFlOcS05kCozDfq90yObCIlsSVJ3obbESdECcsgmUG6%2BM%2BfuqoDJMn1PC0ylvqw9PRxIes%2BX0JEexobJ6jXkBnKD1NTm%2F9xd0%2B4Qod3fhdqJADFRDKO3G4QxqgstgcNoJ2iSUT1RqgijDpRj1KYCOCZGWcLmpLQSKIoFpZy3w%2FOAYXwH09YDOPmYNEYwEiCSAfs7CEvMH8qGpe0JUpNJspGn6Tj5zy5AKQccg2Bc%2BKpJm24DXFVHquUlzI4aItIUCI%2B4B1WoN5vcomboDZulu0ZYMrvxiGDBhygxfWdl3iss4jCb8XAke7XDXrex7d6rJxbMO3GhoEGOusBKawrPgGe%2FmwH9kUyQqTnqRKDbpLFR08oHLR9UFK8VLV5YYd9pRgZmbZBvXr3pt3nG1CbPPvmojKs0PzKFi1oD%2FV%2Fcoh0OdMPiRaRf%2FdKBIajFow8rfPDzFzP6ylrYxq8XQA%2B5wUjSQEgp1RiAEjFekqAxkNJoYU6RpTTy32A7XMLMcJbMte%2BpFtHSFQ27MV%2BB%2FGfsMZ6Twlf1ZmnMqADpwPz2zD6gNmL3eLmZX2rD06DKE3EaWG5rZIPhFYR4d9wsbHL4x8Sk7EsPbn1P1%2Fb6K9yHUmNCdKlg9VxJPYFP0LfD8mQW42f%2BpOo6w%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDS6T4KIM2%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=0f6bbad2585e61ce131a6beb0793dfeda1285a4d55b0d3eee10e8b2fa11825eb
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Já existe fatura recorrente agendada para este Deal ID.
+
+
+POST RECEIVED - 2021-02-09 00:22:02
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T232202Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICvwOf32pcMOHkcfKjw8Xti3KmiLM3Z4NNTpQNU%2BgBi%2FAiEAuid3va8xmqxGgBelS6ip2TH0rjWopCpt4rHpqCEL5NoqtAMIfhAAGgw2OTY5NzYzNjA5NjciDB7H3mGBOfc%2B2RdOtiqRA0zmTkEwxRr5KVOZPPVfYBm%2BNLpmzSpjKBr7t9yziskT5AcpHhrlHxBKR2AWqb1tp%2BJCSdlr6VWr%2FlkbUGySs9BLZRRjeQ31rbAztKhQDUK9jNE36IRndXxzMAkgqPD1BN%2BnaFwWJBVNP2iNyvZFMQMMSeRnGPYSMaQQKtsCKk1n1T3GoK3bFGumcRjr3omL7G2tJOSTYlWpmA%2BLQQLK%2FTFlOcS05kCozDfq90yObCIlsSVJ3obbESdECcsgmUG6%2BM%2BfuqoDJMn1PC0ylvqw9PRxIes%2BX0JEexobJ6jXkBnKD1NTm%2F9xd0%2B4Qod3fhdqJADFRDKO3G4QxqgstgcNoJ2iSUT1RqgijDpRj1KYCOCZGWcLmpLQSKIoFpZy3w%2FOAYXwH09YDOPmYNEYwEiCSAfs7CEvMH8qGpe0JUpNJspGn6Tj5zy5AKQccg2Bc%2BKpJm24DXFVHquUlzI4aItIUCI%2B4B1WoN5vcomboDZulu0ZYMrvxiGDBhygxfWdl3iss4jCb8XAke7XDXrex7d6rJxbMO3GhoEGOusBKawrPgGe%2FmwH9kUyQqTnqRKDbpLFR08oHLR9UFK8VLV5YYd9pRgZmbZBvXr3pt3nG1CbPPvmojKs0PzKFi1oD%2FV%2Fcoh0OdMPiRaRf%2FdKBIajFow8rfPDzFzP6ylrYxq8XQA%2B5wUjSQEgp1RiAEjFekqAxkNJoYU6RpTTy32A7XMLMcJbMte%2BpFtHSFQ27MV%2BB%2FGfsMZ6Twlf1ZmnMqADpwPz2zD6gNmL3eLmZX2rD06DKE3EaWG5rZIPhFYR4d9wsbHL4x8Sk7EsPbn1P1%2Fb6K9yHUmNCdKlg9VxJPYFP0LfD8mQW42f%2BpOo6w%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDS6T4KIM2%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=be033a6ddc405a99032a76877284a45d6ba2518352616e214b6dbbbe34e7e972
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Já existe fatura recorrente agendada para este Deal ID.
+
+
+POST RECEIVED - 2021-02-09 00:25:53
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T232553Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=00c7685689a4a92647886abc7fa03296adea4cb0a1c130fc74f61179e24d72cb
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:31:04
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T233104Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICvwOf32pcMOHkcfKjw8Xti3KmiLM3Z4NNTpQNU%2BgBi%2FAiEAuid3va8xmqxGgBelS6ip2TH0rjWopCpt4rHpqCEL5NoqtAMIfhAAGgw2OTY5NzYzNjA5NjciDB7H3mGBOfc%2B2RdOtiqRA0zmTkEwxRr5KVOZPPVfYBm%2BNLpmzSpjKBr7t9yziskT5AcpHhrlHxBKR2AWqb1tp%2BJCSdlr6VWr%2FlkbUGySs9BLZRRjeQ31rbAztKhQDUK9jNE36IRndXxzMAkgqPD1BN%2BnaFwWJBVNP2iNyvZFMQMMSeRnGPYSMaQQKtsCKk1n1T3GoK3bFGumcRjr3omL7G2tJOSTYlWpmA%2BLQQLK%2FTFlOcS05kCozDfq90yObCIlsSVJ3obbESdECcsgmUG6%2BM%2BfuqoDJMn1PC0ylvqw9PRxIes%2BX0JEexobJ6jXkBnKD1NTm%2F9xd0%2B4Qod3fhdqJADFRDKO3G4QxqgstgcNoJ2iSUT1RqgijDpRj1KYCOCZGWcLmpLQSKIoFpZy3w%2FOAYXwH09YDOPmYNEYwEiCSAfs7CEvMH8qGpe0JUpNJspGn6Tj5zy5AKQccg2Bc%2BKpJm24DXFVHquUlzI4aItIUCI%2B4B1WoN5vcomboDZulu0ZYMrvxiGDBhygxfWdl3iss4jCb8XAke7XDXrex7d6rJxbMO3GhoEGOusBKawrPgGe%2FmwH9kUyQqTnqRKDbpLFR08oHLR9UFK8VLV5YYd9pRgZmbZBvXr3pt3nG1CbPPvmojKs0PzKFi1oD%2FV%2Fcoh0OdMPiRaRf%2FdKBIajFow8rfPDzFzP6ylrYxq8XQA%2B5wUjSQEgp1RiAEjFekqAxkNJoYU6RpTTy32A7XMLMcJbMte%2BpFtHSFQ27MV%2BB%2FGfsMZ6Twlf1ZmnMqADpwPz2zD6gNmL3eLmZX2rD06DKE3EaWG5rZIPhFYR4d9wsbHL4x8Sk7EsPbn1P1%2Fb6K9yHUmNCdKlg9VxJPYFP0LfD8mQW42f%2BpOo6w%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDS6T4KIM2%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=49791cb038a39a4b73fe4c3638a89eaf3d607d7bb8c0396e4e73c2120cb27dfc
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:33:30
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T233329Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=9bbeca574a86bbe59952d6fc9f90c62e4d963c853877a6a50538a1a408e10550
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:34:54
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=300&X-Amz-Date=20210208T233454Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICvwOf32pcMOHkcfKjw8Xti3KmiLM3Z4NNTpQNU%2BgBi%2FAiEAuid3va8xmqxGgBelS6ip2TH0rjWopCpt4rHpqCEL5NoqtAMIfhAAGgw2OTY5NzYzNjA5NjciDB7H3mGBOfc%2B2RdOtiqRA0zmTkEwxRr5KVOZPPVfYBm%2BNLpmzSpjKBr7t9yziskT5AcpHhrlHxBKR2AWqb1tp%2BJCSdlr6VWr%2FlkbUGySs9BLZRRjeQ31rbAztKhQDUK9jNE36IRndXxzMAkgqPD1BN%2BnaFwWJBVNP2iNyvZFMQMMSeRnGPYSMaQQKtsCKk1n1T3GoK3bFGumcRjr3omL7G2tJOSTYlWpmA%2BLQQLK%2FTFlOcS05kCozDfq90yObCIlsSVJ3obbESdECcsgmUG6%2BM%2BfuqoDJMn1PC0ylvqw9PRxIes%2BX0JEexobJ6jXkBnKD1NTm%2F9xd0%2B4Qod3fhdqJADFRDKO3G4QxqgstgcNoJ2iSUT1RqgijDpRj1KYCOCZGWcLmpLQSKIoFpZy3w%2FOAYXwH09YDOPmYNEYwEiCSAfs7CEvMH8qGpe0JUpNJspGn6Tj5zy5AKQccg2Bc%2BKpJm24DXFVHquUlzI4aItIUCI%2B4B1WoN5vcomboDZulu0ZYMrvxiGDBhygxfWdl3iss4jCb8XAke7XDXrex7d6rJxbMO3GhoEGOusBKawrPgGe%2FmwH9kUyQqTnqRKDbpLFR08oHLR9UFK8VLV5YYd9pRgZmbZBvXr3pt3nG1CbPPvmojKs0PzKFi1oD%2FV%2Fcoh0OdMPiRaRf%2FdKBIajFow8rfPDzFzP6ylrYxq8XQA%2B5wUjSQEgp1RiAEjFekqAxkNJoYU6RpTTy32A7XMLMcJbMte%2BpFtHSFQ27MV%2BB%2FGfsMZ6Twlf1ZmnMqADpwPz2zD6gNmL3eLmZX2rD06DKE3EaWG5rZIPhFYR4d9wsbHL4x8Sk7EsPbn1P1%2Fb6K9yHUmNCdKlg9VxJPYFP0LfD8mQW42f%2BpOo6w%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDS6T4KIM2%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=8cd66cf50854237bf75c162355644e28dd8ad7102bbf9c2460672201dd17c9a8
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:36:50
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T233649Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=72bf72a82f2398a73007d7536e1e86ef6f6a9908dc6c7589b92bd5cc86981b6b
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:39:26
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T233925Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=bbf7dc2939c34f618762d3d788a4436c6747fe189fe812b26c2c67a65ba4ac03
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Fatura ID...82
+controle recorrencia...44
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:41:55
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T234154Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=7ca1945b447174637403f98516a7ff9fb85eeb30ba3dcb9cb15d5e314f63ec14
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Fatura ID...82
+controle recorrencia...46
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:43:37
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T234337Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=1c8c6e9253a5d41da34fd36ba5bcde89487e2b654183d8aac21f34528d3be57e
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Fatura ID...82
+controle recorrencia...48
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:46:25
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=302&X-Amz-Date=20210208T234624Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=7a6d565b7a3d7a457c0e206901c014f8e457c5eda6443901b0d3a6d84890af12
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Fatura ID...82
+controle recorrencia...50
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:48:11
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T234811Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=dec080d05a78658f302683dd906cee1b97e7802dc67efc45bf243fe296397fb0
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Fatura ID...82
+controle recorrencia...52
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:51:00
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T235059Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=39fb259968095f1b4c1d4a63036089c529f8b4a1a40a8a74f853035c344ed915
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Fatura ID...82
+controle recorrencia...54
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:52:47
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210208T235247Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=0fd842d12fb1c8a9732fa40c61852ad0aaa702be35f366050cd29e7713bfa744
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Fatura ID...82
+controle recorrencia...56
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 00:59:02
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=300&X-Amz-Date=20210208T235902Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210208%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=0b5bfa11f7842d90fe80a609a25405062df1e8600efb525f2c1a693a3217a1da
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Fatura ID...82
+controle recorrencia...58
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 01:01:26
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210209T000126Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=dd35dfed5bb4138ed26bc257bede9948223a90297fab04886568efd02cb7b6d6
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Fatura ID...82
+controle recorrencia...60 1501
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 01:07:06
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210209T000706Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=d5a1987d15982da03e9b284eb080fb99f80dd0a9d7ac4ab9b9fe1665360d011c
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Fatura ID...82
+controle recorrencia...62 1501 {
+        "fields":
+        {
+            "INVOICE_ID": "82",
+            "IS_LIMIT": "N",
+            "START_DATE": "2021-03-01T03:00:00+03:00",
+            "PARAMS": {
+                "PERIOD": "month",
+                "IS_WORKING_ONLY": "N",
+                "INTERVAL": 15,
+                "DATE_PAY_BEFORE_OFFSET_TYPE": "DAY",
+                "DATE_PAY_BEFORE_OFFSET_VALUE": 5
+            }
+        }
+       }
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 01:13:28
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210209T001327Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=da667c94e37d4a99078bfa5c98ecae0e95268bbd22ec10a7b05b392674a0035d
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Fatura ID...82
+controle recorrencia...Invoice ID is empty. 1501 {
+        "fields":
+        {
+            "INVOICE_ID": "82",
+            "IS_LIMIT": "N",
+            "START_DATE": "2021-03-01T03:00:00+03:00",
+            "PARAMS": {
+                "PERIOD": "month",
+                "IS_WORKING_ONLY": "N",
+                "INTERVAL": 15,
+                "DATE_PAY_BEFORE_OFFSET_TYPE": "DAY",
+                "DATE_PAY_BEFORE_OFFSET_VALUE": 5,
+                "TYPE": 1,
+            }
+        }
+       }
+Não foi gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 01:14:53
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210209T001452Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=49dc7e12a3bcc147177d05907bac0fd57b6730f07de1e3945daf6fb31b932ed5
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Fatura ID...82
+controle recorrencia...70 1501 {
+        "fields":
+        {
+            "INVOICE_ID": "82",
+            "IS_LIMIT": "N",
+            "START_DATE": "2021-03-01T03:00:00+03:00",
+            "PARAMS": {
+                "PERIOD": "month",
+                "IS_WORKING_ONLY": "N",
+                "INTERVAL": 15,
+                "DATE_PAY_BEFORE_OFFSET_TYPE": "DAY",
+                "DATE_PAY_BEFORE_OFFSET_VALUE": 5,
+                "TYPE": 1
+            }
+        }
+       }
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 01:19:41
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=301&X-Amz-Date=20210209T001941Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCLNIz6WtY%2F0C%2FtFh7sAQbYWb0f1gA4VaJDCeiFZ7oZZwIgfSCqTRSmcIDx%2BZTcOYUwqrhwe4BWc7GAHEJyvqGqbOYqtAMIfhAAGgw2OTY5NzYzNjA5NjciDDKivnc%2BscYq5Ma2%2FCqRA%2BhXss1gNGnIUxiHk1Wc63hp%2Fz%2FkY1VLPvW14zCdXWOIx0t5CToknLA1ehlkc36NmE9oLGnPi%2BBLoQ1%2FesaHbtDw5X3mTenmaqT4DpzGACa%2B%2Bm7cM0ErgMz7rC7SWDbUdAT%2FbdWoFr0KE%2B6oN2sZtHexAVog71umJ%2BKN0h918I%2B3t327qHnrKlXi8scVMXgMME1vyKJcJXBagb6aAL%2BCdp3MaevvBkS7nzhJwrnQcNAC4lVo0Kx205Y5%2FraHNo6LM9ulVwAWmjLMOkikiPP0xIF7WsePvIVAgKCOTqQ7qv11DuzKPNg1hMSd9sZG%2BgaY1f4XtPa4XhUlGJQdBACdgdMrYgH721MtKy9ThgI2fIWZ8IR%2BkDOEHnceVQyID9ETKjVuVNl4mpf3ni1E2h743XXWes3qF61NLmoVwQk0McZZoVuVVLPHMA6Zd7KuIVZtIJuSflAofek5Wjs5tOtSo5yCRmebMox8kro6QB0Cgu02bOrnsdfzB%2F7wOZ%2BE2bz%2Be7Ld25KPec3Cy2AR4Tg656VpMPzKhoEGOusBSiWtetniFH0H1sr9IMSLc4Tw4oyrjlRdbuQdZ%2FYL1tx9%2BnJkzg5RrmDpGIdSJwNvlBnbxC847yjX7rqzj5hr1yVon%2BZuvUqVMOJBMpIJ3C6VWnLmOJN1aSgsdnJOx0PxZ0lbBnYgkYhcdyX90Dcq%2F4cXv8IZkAsGVss1RaJwC8ARBI6lgajgttgkJ%2B4ij8%2FaPmI1KXB0IaO3bW3IlV8ieAMeG6f1rBvt0ve44nl7Aq20DKQ00JXKFfBg0NOOuCZOLBx19L3yq%2BTSfVvzTRZbzmB5UqmzjVi%2Bf048qY5jxrsXk1Ca4BIHSzMGjQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDVX4F7EUO%2F20210209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=099d36e0165f4f447f20f59d479d7519af3b25658911d8c3f255ba586c5ca8f8
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Fatura ID...82
+controle recorrencia...72 1501 {
+        "fields":
+        {
+            "INVOICE_ID": "82",
+            "IS_LIMIT": "N",
+            "START_DATE": "2021-03-01T03:00:00+03:00",
+            "PARAMS": {
+                "PERIOD": "month",
+                "IS_WORKING_ONLY": "N",
+                "INTERVAL": 1,
+                "DATE_PAY_BEFORE_OFFSET_TYPE": "DAY",
+                "DATE_PAY_BEFORE_OFFSET_VALUE": 5,
+                "TYPE": 1,
+                "NUM_DAY_IN_MONTH": 15
+
+            }
+        }
+       }
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 01:31:32
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=302&X-Amz-Date=20210209T003131Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCICvwOf32pcMOHkcfKjw8Xti3KmiLM3Z4NNTpQNU%2BgBi%2FAiEAuid3va8xmqxGgBelS6ip2TH0rjWopCpt4rHpqCEL5NoqtAMIfhAAGgw2OTY5NzYzNjA5NjciDB7H3mGBOfc%2B2RdOtiqRA0zmTkEwxRr5KVOZPPVfYBm%2BNLpmzSpjKBr7t9yziskT5AcpHhrlHxBKR2AWqb1tp%2BJCSdlr6VWr%2FlkbUGySs9BLZRRjeQ31rbAztKhQDUK9jNE36IRndXxzMAkgqPD1BN%2BnaFwWJBVNP2iNyvZFMQMMSeRnGPYSMaQQKtsCKk1n1T3GoK3bFGumcRjr3omL7G2tJOSTYlWpmA%2BLQQLK%2FTFlOcS05kCozDfq90yObCIlsSVJ3obbESdECcsgmUG6%2BM%2BfuqoDJMn1PC0ylvqw9PRxIes%2BX0JEexobJ6jXkBnKD1NTm%2F9xd0%2B4Qod3fhdqJADFRDKO3G4QxqgstgcNoJ2iSUT1RqgijDpRj1KYCOCZGWcLmpLQSKIoFpZy3w%2FOAYXwH09YDOPmYNEYwEiCSAfs7CEvMH8qGpe0JUpNJspGn6Tj5zy5AKQccg2Bc%2BKpJm24DXFVHquUlzI4aItIUCI%2B4B1WoN5vcomboDZulu0ZYMrvxiGDBhygxfWdl3iss4jCb8XAke7XDXrex7d6rJxbMO3GhoEGOusBKawrPgGe%2FmwH9kUyQqTnqRKDbpLFR08oHLR9UFK8VLV5YYd9pRgZmbZBvXr3pt3nG1CbPPvmojKs0PzKFi1oD%2FV%2Fcoh0OdMPiRaRf%2FdKBIajFow8rfPDzFzP6ylrYxq8XQA%2B5wUjSQEgp1RiAEjFekqAxkNJoYU6RpTTy32A7XMLMcJbMte%2BpFtHSFQ27MV%2BB%2FGfsMZ6Twlf1ZmnMqADpwPz2zD6gNmL3eLmZX2rD06DKE3EaWG5rZIPhFYR4d9wsbHL4x8Sk7EsPbn1P1%2Fb6K9yHUmNCdKlg9VxJPYFP0LfD8mQW42f%2BpOo6w%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYDS6T4KIM2%2F20210209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=79f0b6b4ef898344e303aa6d166dd2fb3692789308cd28e0d6fee80ce3999326
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Iniciando agendamento de faturas...
+Fatura ID...82
+controle recorrencia...74 1501 {
+        "fields":
+        {
+            "INVOICE_ID": "82",
+            "IS_LIMIT": "N",
+            "START_DATE": "2021-03-01T03:00:00+03:00",
+            "PARAMS": {
+                "PERIOD": "month",
+                "IS_WORKING_ONLY": "N",
+                "TYPE": 1,
+                "NUM_DAY_IN_MONTH": 15,
+                "INTERVAL": 1,
+                "DATE_PAY_BEFORE_OFFSET_TYPE": "DAY",
+                "DATE_PAY_BEFORE_OFFSET_VALUE": 5
+
+            }
+        }
+       }
+Gerado faturas recorrentes para o Deal ID especificado.
+
+
+POST RECEIVED - 2021-02-09 13:50:56
+RECEIVED FROM CLICKSIGN
+#########################
+Integration App - CLICKSIGN
+Evento recebido: auto_close
+Documento recebido: 69e08837-589c-43f7-99e7-dcb9a44b6bdc
+Tratativa para o evento iniciada
+document URL Gerada https://clicksign-content-production.s3.amazonaws.com/2021/02/08/19/51/47/ece6eeb0-c57d-40d5-bd2e-c2e2f4e75aee/Proposta_final_424%20-%20Clicksign.pdf?X-Amz-Expires=302&X-Amz-Date=20210209T125055Z&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJT%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQDI8CAdyvpgAe5X1Z6hrWqBvg%2FjQaCeZX8uxqUhNvlDewIgKSVQFnYGGw95hz6K9eI1tk8pOmLUCFf4IvHGLDfBQHgqvQMIjf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2OTY5NzYzNjA5NjciDN90pHix1dK%2BdpMyrSqRA5TrRZRQ8mKPCMgO1hqsgmIfi%2BR2OZRYTLkGKR110AKr4h0opUapn6fEzBaMaky7UYUbXC8%2FFIhF6XbJxYwEHfdeiBo%2BmnLTvfewxXBXiQifPNvkGzlOWVVVrwS8P7tZrSljqLM3W7H1XNPPvcKKG32qwg17kbWkK4%2BxDe01HfykyleKLhmmt5rfbsmCaedn6Lo5dXtsDCsG2uN9KdDNkUJm%2BW1kKmrk%2FvmaHsugdjQmYavHOdnTKKRPFtSFKV0y%2FlWOrGC8njwNhUrxUPyHslpxb6H3jCigI%2Bu8AZpH6jW6LDW50ue46CQG2qVfTHfsHUvxGxPQkWfYD2LACzC8dncScJbNvNLBTiO14GrMyOSyRx07fxa0ATkSL0nB7dru%2F91xIeSDwqH5t6mHdcZMpK8oNp6dVNQJOwx%2BBbiCbrwUMSb%2BK8xzCoIsmBWGcrrQEKjHFIN7K4GDptLUW52b%2FvRGr7wvL9d9oD8KhqNQErPdmvl7WAaLLgOCilZXbCtkMVkvWzXUN%2FMUjE1R7mnGnE0NMMPviYEGOusB0sjxhkzFiT%2B2lPZQLqxaqhM2imzRepAVNpngA2yBKdkhxqxQJZJ2VsAJBzqWbrfuB%2Fw0ifkLp%2FirVZSi4cgSQZ8Z%2FKI45VyNyyIxRalFRY%2BK6VnR3E9naUy7s5VRC7%2F77KxzAK2WY10qvWT%2FaZ%2FpVjX%2BUg6qAoPiA%2FkqmR%2FUvKZHo3JcbZc8yXkaaPZcp08nQp0Z%2BNN0To%2BD5t8J2Rs5JfSPlM8e7VQT7IQowUsQy7zQ3PLEuBT%2FFA4c46A9ZkEmFT3os7%2BrXJv0%2BpatiGasDr%2FXvv%2BYPthw8WDtnM8tQ2vSbW21ziN3ckqBEg%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIA2ERYHIYD4PPZVAV2%2F20210209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=2497d41748f9d89b66a1f00bba9c573717acb3a70e588a216e84cff2ea3e1272
+Localizado DEAL ID 436
+Fatura Gerada 1
+Link Externo Gerado com sucesso!
+Já existe fatura recorrente agendada para este Deal ID.

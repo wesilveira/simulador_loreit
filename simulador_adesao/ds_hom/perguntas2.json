@@ -1,0 +1,24 @@
+[
+  {
+    "1": "Doenças sexualmente transmissíveis ou outras doenças infectocontagiosas, tais como AIDS/SIDA, doenças venéreas, hepatites, meningites, tuberculoses, chagas e outros?",
+	"2": "Doenças respiratórias (enfisema, asma, bronquite, pneumonia, adenóide, sinusite, otite, outras)?",
+	"3": "Problemas ortopédicos (escoliose, cifose, artrose, fraturas, hernia de disco) ou outro distúrbio ósseo ou de membros?",
+	"4": "Doença neurológica (derrame cerebral, paralisia cerebral, Parkinson, AVC, Alzaimer, epilepsia ou outras?",
+	"5": "Doença endócrina/metabólica (diabetes, lúpus, hipertireoidismo, hipotireoidismo, osteoporose, obesidade ou outras)?",
+	"6": "Câncer (tumoração ou leucemia)?",
+	"7": "Hérnia de disco cervical, lombar, dorsal ou de qualquer outra natureza?",
+	"8": "Doença cardíaca, vascular (varizes, úlceras de perna ou outras) ou hipertensão arterial?",
+	"9": "Doença do aparelho urinário (rins, bexiga, próstata, uretra)?",
+	"10": "Distúrbio psiquiátrico ou psicológico?",
+	"11": "Doença ginecológica (cisto de ovário, endometriose, mioma, incontinência urinária, tumor de mama)?",
+	"12": "Doença reumatológica (reumatismo, artrite, outros)?",
+	"13": "Sequela de acidente, moléstia adquirida ou congênita?",
+	"14": "Úlcera ou de outras doenças do aparelho digestivo?",
+	"15": "Deficiência visual (catarata, glaucoma, outras)?",
+	"16": "Doença do ouvido, nariz ou garganta, tal como sinusite, desvio de septo, amigdalite, otite e outras?",
+	"17": "Doença do sangue, tal como anemia, leucemia, linfoma, doença de Hodgkin, mieloma múltiplo, hemofilia, púrpura, talassemia e outras?",
+	"18": "Doença de pele (dermatites, eczemas, psoríase, nevus ou outras)?",
+	"19": "Existe algum transtorno na região da face tais como: dificuldade para mastigação, problemas de oclusão dentária ou desalinhamento maxilar e mandibular? Usa ou usou aparelho ortodôntico?",
+	"20": "Doença(s) não relacionada(s) acima?"
+  }
+]

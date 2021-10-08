@@ -1,0 +1,37 @@
+
+[
+    {
+      "1":"Tem doença de pele? (cistos, tumorações, etc.).",
+      "2":"Tem doença de crãnio e face? (malformações, tumores, etc.).",
+      "3":"Tem doença oftamológica? (Miopia, astigmatismo, hipermetropia, catarata, pterígo, glaucoma, etc.).",
+      "4":"Tem doença otorrinolaringológica? (Amigdalites, adenoides, sinusites, rinites, otites - infla.do ouvido).",
+      "5":"Tem doença do tórax? (Deformidades, congênitas, etc.).",
+      "6":"Tem doença dos pulmões? (Enfisema, asma, bronquite, cansaço, Doença Pulmonar Obstrutiva Crônica - DPOC).",
+      "7":"Tem doença do sistema músculo-tendinoso? (oteoporose, fratura, hérnia de disco, artrose, reumatismo, etc.).",
+      "8":"Tem doença do sistema músculo-tendinoso? (tendinite, LER- lesão por esforço repetitivo, etc).",
+      "9":"Tem doença cárdiaca? (hipertensão, insuficiência, cardíaca, infarto, angioplastia).",
+      "10":"Tem doença vasculares ou circulatórias (varizes, edemas de membros, derrame, hemorroidas, etc).",
+      "11":"Tem doença do aparelho disgestivo? (estomago, esôfago, intestino, reto e ânus, diarreia recorrente, etc.).",
+      "12":"Tem doença do fígado e vias biliares? (cirrose, hepatite, cálculo da vesícula, icterícia, etc).",
+      "13":"Tem doença do aparelho urinário? ( cálculos, sangue na urina, IRC- Insuficiência Renal Crônica, etc).",
+      "14":"Tem doença no aparelho genital e reprodutor masculino? (próstata, testículo, pênis, etc.)." ,
+      "15":"Tem doença no aparelho genital e produtor feminino? (útero, ovário(s), trompa(s), mioma(s), cisto(s)). ",
+      "16":"Tem doença hematológica(sangue)? (anemia, leucemia, leucopenia, hemofilia, lúpus, diminuição de plaquetastrombocitopenia, etc.).",
+      "17":"Tem doença psiquiátrica? (Depressão, Pânico, fobias, etc).",
+      "18":"Tem doença endócrina ou metábolica? (diabetes, tireoide, acromegalia, cushing, sudorest, etc.).",
+      "19":"Tem deficiência nos orgãos dos sentidos? (audição. Tato, olfato, paladar).",
+      "20":"Tem alguma má formação ou doença congênita?",
+      "21":"Tem câncer ou tumor de qualquer natureza? (maligno ou benigno)",
+      "22":"Tem alguma depência química?",
+      "23":"Sofre de enxaqueca?  (hemiplégica, retiniana, crónica, etc.).",
+      "24":"Foi submetido(a) a alguma cirurgia? (especificar).",
+      "25":"Tem alguma doença(s), lesão(ões), ou patologia(s) não citado(s) acima? (especificar)",
+      "26":"Tem sequela de algum acidente sofrido? (especificar)",
+      "27":"Sofre de Obesidade?",
+      "28":"Sofre de incontinência urinaria? (perda de urina involuntária ou aos esforços).",
+      "29":"Tem indicação para realizar alguma cirurgia? (especificar)",
+      "30":"Tem indicação para realizar tratamento clínico? (ambulátorio ou hospitalar - especificar).",
+      "31":"Tem doença no sistema nervoso? (epilepsia, paralisia(s), convulsões, mal de Alzheimer, mal de Parkison).",
+      "32":"Tem alguma doença infecto-contagiosa? (febre reumática, tuberculose, AIDS, Sífilis, e/ou outras doenças sexualmente transmissíveis"
+    }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "1": "Doenças do aparelho cardio-circulatório (hipertensão, angina, infarto, derrame, arritmias cardíacas, sopros, marca passo, chagas, prolapsos, entre outras)?",
+	"2": "Doenças das veias e artérias (varizes, tromboses, aneurismas, hemorróidas, má circulação, entre outras)?",
+	"3": "Doenças endrócrinas e / ou metabólicas (diabetes, transtornos de glândula tireóide, colesterol, ácido úrico, entre outras)?",
+	"4": "Doenças do aparelho digestivo (gastrite, úlcera, esofagite, pancreatite, varizes de esôfago, diverticulites, doenças de Cronh, doenças hepáticas, engasgos de repetição, alterações anais, pedra na vesícula, colite, polipos, entre outras)?",
+	"5": "Hérnias (Hiato, Inguinal, Umbilical, Incisional, entre outras)?",
+	"6": "Doenças renais ou da bexiga (insuficiência renal, rins policísticos, anomalia do ureter, bexiga e uretra, pedra nos rins, diálise, entre outras)?",
+	"7": "Doenças dos órgãos genitais masculinos (Hiperplasia da próstata, fimose, hidrocele, impotência, entre outras)?",
+	"8": "Doenças do sangue (anemia, leucemia, hemofilia, linfomas, anemia falciforme, talassemia, entre outras)?",
+	"9": "Doenças pulmonares (Asma, bronquite, enfisema, pneumonias de repetição, entre outras)?",
+	"10": "Doenças do ouvido, nariz ou garganta (Diminuição da audição, adenóide, colesteatoma, desvio de septo, rinite, sinusite, amigdalite de repetição, otite, entre outras)?",
+	"11": "Doenças dos olhos (miopia, astigmatismo, hipermetropia, ceratocone, catarata, glaucoma, retinopatias, entre outras)?",
+	"12": "Doenças ou más formações congênitas ou hereditárias, entre outras?",
+	"13": "Doenças imunológicas (AIDS ou ser portador do vírus HIV, entre outras)?",
+	"14": "Doenças ou tumorações benignas ou malignas (Câncer)?",
+	"15": "Doenças reumáticas (artrites, febre reumática, lupus, entre outras)?",
+	"16": "Doenças neurológicas (epilepsia, derrame, paralisia cerebral, mal de Parkinson, esclerose múltipla, doenças de Alzheimer, desmaios, entre outras)?",
+	"17": "Transtornos psiquiátricos (esquizofrenia, depressão, retardo mental, ansiedade, nervosismo, entre outras)?",
+	"18": "Transtornos de comportamento por uso de drogas (álcool, cocaína, maconha, anfetaminas, entre outras)?",
+	"19": "Doenças ginecológicas e das mamas (transtornos do períneo, cisto de mama, cisto de ovário, mioma, entre outras)?",
+	"20": "Doenças da pele (psoríase, dermatite, alergias, pintas escuras, marcas de nascença, quelóides, queimaduras, entre outras)?",
+	"21": "Doenças infecto-contagiosas (hepatites A, B, C, D e/ou E, tuberculose, entre outras)?",
+	"22": "Doenças ortopédicas (artrose, hérnia de disco, fraturas, placas, parafusos, desvio na coluna, tendinite, bursite, osteoporose, amputação, entre outras)?",
+	"23": "Sobrepeso, obesidade?",
+	"24": "Doença ou lesão não mencionada acima?",
+	"25": "Alguma internação realizada ou indicada cirurgia prévia, parto normal ou cesariana, realizou algum transplante ou biópsia, tem sequela de algum acidente?"
+  }
+]

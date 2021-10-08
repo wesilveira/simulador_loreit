@@ -1,0 +1,32 @@
+[
+    {
+      "1":"É portador(a) de alguma doença do sangue, como anemias adquiridas (carencial, hemolítica e aplástica) ou anemias hereditárias (talassemia e falciforme) ou outra?",
+      "2":"É portador(a) de algum distúrbio do sono, como apneia do sono, ronco, em caso de menor de idade; ou outro?",
+      "3":"É portador(a) de alguma doença das articulações, como artrose, tendinite ou outra? Em que parte do corpo?",
+      "4":"É portador(a) de alguma doença dos rins, como calculose, insuficiência renal ou outra, tem rim transplantado ou necessidade de transplante?",
+      "5":"É portador(a) de alguma doença dos olhos, como miopia, hipermetropia, astigmatismo, presbiopia, catarata, estrabismo, glaucoma, lesão de córnea, pterígio, ou tem necessidade de transplante de córnea?",
+      "6":"É portador(a) de alguma colagenose, como lúpus, esclerodermia, polidermatomiosite, artrite reumatoide, vasculites ou outras?",
+      "7":"É portador(a) de diabetes mellitus? (Especificar o tipo).",
+      "8":"É portador(a) de alguma doença da boca ou das glândulas salivares, maxilares, hipertrofia de adenoide ou amígdalas, ou outra?",
+      "9":"É portador(a) de alguma doença da coluna? (cervical, dorsal, lombossacra, coccígea)",
+      "10":"É portador(a) de alguma doença das artérias e dos capilares?",
+      "11":"É portador(a) de alguma doença do coração? (reumática, valvular, isquêmica, infecciosa, muscular, congênita, etc.)",
+      "12":"É portador(a) de alguma doença do aparelho digestivo,como cirrose hepática, hepatite, calculose de vesícula,pancreatite, enterite, colite, gastrite, úlcera, hemorroida, esofagite, diverticulose ou outra?",
+      "13":"É portador(a) de alguma doença dos ouvidos e mastoides, como surdez, otite crônica, rinite alérgica ou outra?",
+      "14":"É portador(a) de alguma doença do sistema nervoso, como doença de Parkinson, doença de Alzheimer, epilepsia, sequelade AVC, tumores, paralisia, meningite ou outras?",
+      "15":"É portador(a) de alguma doença da próstata (para os homens), das mamas ou endometriose (para as mulheres), de doenças dos órgãos genitais, de incontinência urinária ou outra?",
+      "16":"É portador(a) de alguma doença dos ossos, como osteoporose, sequela de fraturas ou outra?",
+      "17":"É portador(a) de alguma doença dos pulmões, como doença pulmonar obstrutiva crônica, asma, enfisema, tuberculose ou outra?",
+      "18":"É portador(a) de algum tipo de hérnia, como inguinal, de hiato, umbilical, incisional, epigástrica ou outra?",
+      "19":"É portador(a) de hipertensão arterial ou, no caso de gestantes, de doença hipertensiva específica da gravidez?",
+      "20":"É portador(a) de alguma doença de pele, como tumores, manchas ou outras? Especificar o local.",
+      "21":"É portador(a) de alguma deficiência física, como malformação congênita ou anomalias cromossômicas?",
+      "22":"É portador(a) de algum tipo de câncer? (Neoplasia maligna) Especificar ano do diagnóstico.",
+      "23":"É portador(a) de obesidade mórbida?",
+      "24":"É portador(a) de alguma doença muscular, como miastenia grave ou outra?",
+      "25":"É portador(a) de vírus HIV (vírus da AIDS)?",
+      "26":"É portador(a) de alguma doença das glândulas endócrinas, como tireoide, paratireoide, hipófise ou suprarrenal? Especificar glândula e doença.",
+      "27":"É portador(a) de alguma doença das veias, como varize, microvarize, trombose, úlcera de perna ou outra?",
+      "28":"É portador(a) de alguma doença mental?"
+    }
+]

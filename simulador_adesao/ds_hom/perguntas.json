@@ -1,0 +1,31 @@
+[
+  {
+    "1": "Aparelho Cardiovascular (Angina, Infarto, Hipertensão, Doença Reumática e Chagas, outras Valvulopatias, Aneurismas), já foi Submetido a algum tratamento?",
+    "2": "Aparelho Digestivo (Vesícula, Fígado, Pâncreas, Esôfago, Intestino e Outros)?",
+    "3": "Aparelho Genito-Uninário (Cálculos, Ureter, Bexiga, Próstata, Infecção Urinária e Outras)?",
+    "4": "Aparelho Respiratório (Asma, Broquite, Efisema, Pneumonia, Tuberculose, e Outras)?",
+    "5": "Problemas Gineco-Obstréticos (Infertilidade, Distúrbios Menstruais, Gravides, Períneo, Mioma, Cistos de Ovários e Trompas, Complicações no parto, Sangramento ou Endometriose)?",
+    "6": "Doenças Oculares (Deficiência Visual, Astigmatismo, Miopia, Catarata, Glaucoma, Estrabismo e outros)?",
+    "7": "Distúrbios Mentais e do Comportamento (Nervosismo, Ansiedade, Depressão, Esquizofrenia, Neurose, Ingestão de Álcool ou Drogas, Outros)?",
+    "8": "Doenças de veias e artérias (Varizes, Trombose, Aneurismas)?",
+    "9": "Doenças dos órgãos genitais masculinos (Próstata, Hidrocecles, Outros)?",
+	  "10": "Doenças endócrinas ou metabólicas (Diabetes, Tiróide, Supra-Renal, Hipófise e Outras)?",
+    "11": "Doenças da mama (Cistos, Displasias, Outros)?",
+    "12": "Doenças do sistema imune (Lupus, Artrite Reumatóide, Outras)?",
+    "13": "Doenças neurológicas (Derrame, Paralisia, Epilepsia, Desmaios, Parkinson, Outras)?",
+    "14": "Hérnias de qualquer natureza (Inguinal, Umbilical, Outras)?",
+    "15": "Problemas hermatológicos (Anemia, Leucemina, Coagulopatias, Outras)?",
+    "16": "Malformações congênitos ou adquiridas?",
+    "17": "Doenças otorrinolaringológicas (OTITE, Sinusite, Amigdalite, Rinite, Faringite, Vertigem, Outras)?",
+    "18": "É portador ou têm sequela de alguma doença neoplástica (Câncer), já fez alguma cirurgia, quimioterapia ou radioterapia)?",
+    "19": "Doenças do aparelho osteolocomotor (Hérnia de disco, Escoliose, Artrite, Artrose, Joanete, Osteomielote, Outras)? Já necessitou de cirurgia, ou fisioterapia?",
+    "20": "É portador ou tem sequela de doença infectocontagiosa (AIDS ou DST’s, Hepatite, Tuberculose, Meningite, Outras)?",
+    "21": "Tem algum tratamento clínico cirúrgico indicado e ainda não realizado?",
+    "22": "Deficiência de órgãos, membros ou sentidos?",
+    "23": "Teve alguma internação clínica ou fez alguma cirurgia nos últimos 12 meses? Qual o motivo?",
+    "24": "Teve algum acidente que tenha deixado alguma sequela ou necessite de algum tratamento médico?",
+    "25": "História de câncer, hipertensão, infarto ou diabetes na família?",
+    "26": "História de alergias?",
+    "27": "Alguma não relacionada acima? Qual?"
+  }
+]
